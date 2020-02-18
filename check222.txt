@@ -1,0 +1,25 @@
+0   28  Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → New
+0   30  Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Alumni
+0   31  Hardware__b__7__bSoftware → Remote__bSupport__b__PBomgar__p
+0   34  Identity__bManagement__band__bAuthentication → Online__bdirectory__fLDAP__fDirectory__bServices
+0   36  Hardware__b__7__bSoftware → Accessories__M__bAdapters__M__band__bPeripherals
+0   37  Hardware__b__7__bSoftware → Monitor
+0   38  Hardware__b__7__bSoftware → Microsoft__bOffice → Departmental__bIssue
+0   41  Telecommunications__band__bNetworking → Voice__bServices → VoIP__bTelephone__bService
+0   42  Business__bApplications__band__bServices → CAESAR__fSES → Student__bAccess
+0   46  Telecommunications__band__bNetworking → Voice__bServices → Handsets__fEndpoints__fSoft__uclients
+0   48  Hardware__b__7__bSoftware → Java
+0   56  Identity__bManagement__band__bAuthentication → Active__bDirectory__fRadiant__bLogic
+0   61  Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Troubleshooting
+0   62  Technology__bSpaces → Other
+0   65  Identity__bManagement__band__bAuthentication → NetID → Other
+0   70  Hardware__b__7__bSoftware → Microsoft__bOffice → Office__b365
+0   77  Research__bResources → Prism__bGraphpad
+0   83  Telecommunications__band__bNetworking → Wireless__b__PNorthwestern__p → Configuration
+0   95  Business__bApplications__band__bServices → Kronos
+0   100 Business__bApplications__band__bServices → InfoEd
+0   106 Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → ORG__bMailbox
+0   145 Technology__bSpaces → Audio__uVisual__b__PAV__p → Other
+0   158 Technology__bSpaces → Audio__uVisual__b__PAV__p → Projector__bcolor__M__bcontrol__M__band__bother
+0   162 Technology__bSpaces → Audio__uVisual__b__PAV__p → hardware__bperformance__bchanged__fdegraded__b__u__bcite__btype__bin__bdescription
+0   163 Technology__bSpaces → Audio__uVisual__b__PAV__p → Laptop__bconnection__band__bconfiguration

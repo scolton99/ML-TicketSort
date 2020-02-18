@@ -1,0 +1,842 @@
+89     Academic__bResources → Canvas → Access__b__UJud___bAdmin → Account__bCreation
+5      Academic__bResources → Canvas → Access__b__UJud___bAdmin → Account__bDeletion
+21     Academic__bResources → Canvas → Access__b__UJud___bAdmin → Log__bIn
+6      Academic__bResources → Canvas → Access__b__UJud___bAdmin → Other
+18     Academic__bResources → Canvas → Access__b__UJud___bAdmin → Role__bChange
+8      Academic__bResources → Canvas → Access__b__UJud___bAdmin → Sub__uaccount__bChange
+109    Academic__bResources → Canvas → Access__b__UJud___bUser → Account__bCreation
+203    Academic__bResources → Canvas → Access__b__UJud___bUser → Log__bIn
+729    Academic__bResources → Canvas → Consultation
+1097   Academic__bResources → Canvas → Course__bCombine
+5      Academic__bResources → Canvas → Course__bComponent → Announcements
+12     Academic__bResources → Canvas → Course__bComponent → Assignments
+0      Academic__bResources → Canvas → Course__bComponent → Attendance
+1      Academic__bResources → Canvas → Course__bComponent → Collaborations
+1      Academic__bResources → Canvas → Course__bComponent → Discussions
+10     Academic__bResources → Canvas → Course__bComponent → Files
+3      Academic__bResources → Canvas → Course__bComponent → Grades
+0      Academic__bResources → Canvas → Course__bComponent → Groups
+5      Academic__bResources → Canvas → Course__bComponent → Modules
+5      Academic__bResources → Canvas → Course__bComponent → Other
+1      Academic__bResources → Canvas → Course__bComponent → Pages
+5      Academic__bResources → Canvas → Course__bComponent → Quizzes
+0      Academic__bResources → Canvas → Course__bComponent → SpeedGrader
+1123   Academic__bResources → Canvas → Course__bCreation__b__UJud___bCustom
+157    Academic__bResources → Canvas → Course__bCreation__b__UJud___bSES
+33     Academic__bResources → Canvas → Enrollment__bManagement__b__UJud___bSES
+78     Academic__bResources → Canvas → Enrollment__bManagement__b__UJud___bSystem
+31     Academic__bResources → Canvas → LTI → BlueJeans__b__UJud___bLTI
+6      Academic__bResources → Canvas → LTI → Course__bReserves__b__UJud___bLTI
+6      Academic__bResources → Canvas → LTI → CTEC__b__UJud___bLTI
+6      Academic__bResources → Canvas → LTI → Google__bDrive__b__UJud___bLTI
+4      Academic__bResources → Canvas → LTI → GradeSync__b__UJud___bLTI
+28     Academic__bResources → Canvas → LTI → Other
+33     Academic__bResources → Canvas → LTI → Panopto__b__UJud___bLTI
+2      Academic__bResources → Canvas → LTI → Piazza__b__UJud___bLTI
+6      Academic__bResources → Canvas → LTI → TurningPoint__b__UJud___bLTI
+15     Academic__bResources → Canvas → LTI → Turnitin__b__UJud___bLTI
+0      Academic__bResources → Canvas → LTI → WebEx__b__UJud___bLTI
+13     Academic__bResources → Canvas → Mobile__bApp
+98     Academic__bResources → Canvas → Other
+128    Academic__bResources → Canvas → Settings__b__UJud___bCourse
+1      Academic__bResources → Canvas → Settings__b__UJud___bSub__bAccount
+32     Academic__bResources → Canvas → Settings__b__UJud___bUser__bAccount
+208    Academic__bResources → Library__bServices
+1      Academic__bResources → Media__bSpace → iTunesU
+38     Academic__bResources → Media__bSpace → Media__bSpace__bAccount__bRequest
+8      Academic__bResources → Media__bSpace → Video__bFormat
+6      Academic__bResources → Media__bSpace → YouTube
+37     Academic__bResources → MediaSite
+876    Academic__bResources → NU__bSites
+426    Academic__bResources → NUWorkspace → Access
+62     Academic__bResources → NUWorkspace → Citrix
+26     Academic__bResources → NUWorkspace → Licenses
+35     Academic__bResources → NUWorkspace → Other
+93     Academic__bResources → SRS__bClickers
+1      Academic__bResources → Video__bProduction__bStudios__b__PSelf__bService__p
+35     Business__bApplications__band__bServices → AdviseStream → Adviser__bAccess
+30     Business__bApplications__band__bServices → AdviseStream → Calendar__band__bAppointments
+3      Business__bApplications__band__bServices → AdviseStream → Messages
+0      Business__bApplications__band__bServices → AdviseStream → Mobile__bApp
+20     Business__bApplications__band__bServices → AdviseStream → Other
+9      Business__bApplications__band__bServices → AdviseStream → Student__bAccess
+18     Business__bApplications__band__bServices → AOPS__b__PCCM__bAnimal__bOps__bSys__p
+76     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Analytics → Descriptive__bAnalyses
+18     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Analytics → Predictive__bModel
+25     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bQuery__bStudio → Change
+125    Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bQuery__bStudio → New
+5      Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bQuery__bStudio → Other
+44     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bQuery__bStudio → Rerun
+21     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bReport__bStudio → Change
+14     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bReport__bStudio → New
+6      Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bReport__bStudio → Other
+10     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bReport__bStudio → Rerun
+36     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Crystal__bReports → Change
+45     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Crystal__bReports → New
+4      Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Crystal__bReports → Other
+37     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Crystal__bReports → Rerun
+44     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Formatted__bReports → Change
+97     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Formatted__bReports → New
+8      Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Formatted__bReports → Other
+133    Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Formatted__bReports → Rerun
+81     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Report__bConsultation → Other
+1110   Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → Change
+2202   Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → New
+246    Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → Other
+3254   Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → Rerun
+225    Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Tableau__bReports → Change
+125    Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Tableau__bReports → New
+48     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Tableau__bReports → Other
+19     Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Tableau__bReports → Rerun
+311    Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → User__bSupport → Other
+283    Business__bApplications__band__bServices → Axis__bTV__b__PDigital__bSignage__p
+245    Business__bApplications__band__bServices → CAESAR__fSES → 1098__uT
+3122   Business__bApplications__band__bServices → CAESAR__fSES → Administrative__bAccess
+76     Business__bApplications__band__bServices → CAESAR__fSES → CTEC
+1396   Business__bApplications__band__bServices → CAESAR__fSES → Duplicate__bResolution
+825    Business__bApplications__band__bServices → CAESAR__fSES → Faculty__bAccess
+618    Business__bApplications__band__bServices → CAESAR__fSES → Guest__bAccess
+2975   Business__bApplications__band__bServices → CAESAR__fSES → Other
+165    Business__bApplications__band__bServices → CAESAR__fSES → Personal__fEmergency__bInfo
+616    Business__bApplications__band__bServices → CAESAR__fSES → Registration
+2449   Business__bApplications__band__bServices → CAESAR__fSES → Student__bAccess
+77     Business__bApplications__band__bServices → CAESAR__fSES → Student__bFinancial__b__bNo__bMatch__bBuffer
+651    Business__bApplications__band__bServices → CAESAR__fSES → Student__bRecords__bAd__bHoc
+214    Business__bApplications__band__bServices → CAESAR__fSES → Transcripts
+11     Business__bApplications__band__bServices → Campus__bMaps
+152    Business__bApplications__band__bServices → Career__bCat__b__PSymplicity__p
+298    Business__bApplications__band__bServices → CATracks → CATracks__bUser__bSupport
+1444   Business__bApplications__band__bServices → CATracks → Other
+1379   Business__bApplications__band__bServices → CATracks → Reports → AdHoc
+36     Business__bApplications__band__bServices → CATracks → Reports → Crystal
+188    Business__bApplications__band__bServices → CATracks → Reports → Other
+25     Business__bApplications__band__bServices → CATracks → Reports → PreDefined
+0      Business__bApplications__band__bServices → CATracks → Security__band__bAccess → Alumni__bVolunteers
+1      Business__bApplications__band__bServices → CATracks → Security__band__bAccess → General__bAccess
+5289   Business__bApplications__band__bServices → CATracks → System__bMaintenance__band__bModifications
+21     Business__bApplications__band__bServices → Clean__bAddress
+6      Business__bApplications__band__bServices → Cognos → Administrative__bDashboard → Analysis
+0      Business__bApplications__band__bServices → Cognos → Administrative__bDashboard → ETL
+14     Business__bApplications__band__bServices → Cognos → Administrative__bDashboard → Reporting
+1      Business__bApplications__band__bServices → Cognos → ARD__bReporting → Analysis
+4      Business__bApplications__band__bServices → Cognos → ARD__bReporting → ETL
+21     Business__bApplications__band__bServices → Cognos → ARD__bReporting → Reporting
+3      Business__bApplications__band__bServices → Cognos → Effort__bReporting → Analysis
+0      Business__bApplications__band__bServices → Cognos → Effort__bReporting → ETL
+24     Business__bApplications__band__bServices → Cognos → Effort__bReporting → Reporting
+1      Business__bApplications__band__bServices → Cognos → Endowment__b__7__bStewardship__bReporting → Analysis
+0      Business__bApplications__band__bServices → Cognos → Endowment__b__7__bStewardship__bReporting → ETL
+3      Business__bApplications__band__bServices → Cognos → Endowment__b__7__bStewardship__bReporting → Reporting
+2      Business__bApplications__band__bServices → Cognos → Enterprise__bReporting__b__7__bAnalytics__bTool → Analysis
+3      Business__bApplications__band__bServices → Cognos → Enterprise__bReporting__b__7__bAnalytics__bTool → ETL
+65     Business__bApplications__band__bServices → Cognos → Enterprise__bReporting__b__7__bAnalytics__bTool → Reporting
+4      Business__bApplications__band__bServices → Cognos → FASIS__bReporting → Analysis
+1      Business__bApplications__band__bServices → Cognos → FASIS__bReporting → ETL
+50     Business__bApplications__band__bServices → Cognos → FASIS__bReporting → Reporting
+2      Business__bApplications__band__bServices → Cognos → NU__bFinancials__bAd__bHoc__bReporting → Analysis
+1      Business__bApplications__band__bServices → Cognos → NU__bFinancials__bAd__bHoc__bReporting → ETL
+71     Business__bApplications__band__bServices → Cognos → NU__bFinancials__bAd__bHoc__bReporting → Reporting
+22     Business__bApplications__band__bServices → Cognos → NU__bFinancials__bCanned__bReporting → Analysis
+19     Business__bApplications__band__bServices → Cognos → NU__bFinancials__bCanned__bReporting → ETL
+652    Business__bApplications__band__bServices → Cognos → NU__bFinancials__bCanned__bReporting → Reporting
+13     Business__bApplications__band__bServices → Cognos → NuCore → Analysis
+3      Business__bApplications__band__bServices → Cognos → NuCore → ETL
+8      Business__bApplications__band__bServices → Cognos → NuCore → Reporting
+2      Business__bApplications__band__bServices → Cognos → ORIS__bReporting → Analysis
+0      Business__bApplications__band__bServices → Cognos → ORIS__bReporting → ETL
+6      Business__bApplications__band__bServices → Cognos → ORIS__bReporting → Reporting
+345    Business__bApplications__band__bServices → Cognos → Other
+0      Business__bApplications__band__bServices → Cognos → Parking__bReports → Analysis
+0      Business__bApplications__band__bServices → Cognos → Parking__bReports → ETL
+1      Business__bApplications__band__bServices → Cognos → Parking__bReports → Reporting
+8      Business__bApplications__band__bServices → Cognos → SES__bReporting → Analysis
+1      Business__bApplications__band__bServices → Cognos → SES__bReporting → ETL
+94     Business__bApplications__band__bServices → Cognos → SES__bReporting → Reporting
+0      Business__bApplications__band__bServices → Cognos → Student__bFunding → Analysis
+1      Business__bApplications__band__bServices → Cognos → Student__bFunding → ETL
+5      Business__bApplications__band__bServices → Cognos → Student__bFunding → Reporting
+0      Business__bApplications__band__bServices → Cognos → Undergraduate__bTransition__bReports → Analysis
+0      Business__bApplications__band__bServices → Cognos → Undergraduate__bTransition__bReports → ETL
+0      Business__bApplications__band__bServices → Cognos → Undergraduate__bTransition__bReports → Reporting
+318    Business__bApplications__band__bServices → CONDUITS → Access
+137    Business__bApplications__band__bServices → CONDUITS → Billing
+213    Business__bApplications__band__bServices → CONDUITS → Configuration__b__PContacts__M__bAccounts__M__bDepartments__p
+668    Business__bApplications__band__bServices → CONDUITS → Configuration__b__PInventory__M__bCable__bRecords__p
+24     Business__bApplications__band__bServices → CONDUITS → Configuration__b__PServers__p
+9568   Business__bApplications__band__bServices → CONDUITS → Order__bForm
+58     Business__bApplications__band__bServices → CONDUITS → Service__bPerformance__bIssue__bor__bInterruption
+80     Business__bApplications__band__bServices → Confluence
+135    Business__bApplications__band__bServices → Daptiv
+17     Business__bApplications__band__bServices → Denali__b__PSOFO__bAccounting__p
+1215   Business__bApplications__band__bServices → Departmental__bWeb__bSite
+17     Business__bApplications__band__bServices → Document__bImaging__b__PImageNow__p → CAESAR__fSES
+33     Business__bApplications__band__bServices → DVMAX__b__PCCM__bVeterinary__bCare__p
+75     Business__bApplications__band__bServices → eACUC__b__PAnimal__bCare__bCompliance__p
+377    Business__bApplications__band__bServices → eCATS__b__PStudent__bLoan__bSystem__p
+3194   Business__bApplications__band__bServices → eIRB
+114    Business__bApplications__band__bServices → EMS__bScheduling__bSystem
+11     Business__bApplications__band__bServices → eNOTIS
+100    Business__bApplications__band__bServices → Enterprise__bDatabases → FASIS
+142    Business__bApplications__band__bServices → Enterprise__bDatabases → FFRA
+15     Business__bApplications__band__bServices → Enterprise__bDatabases → IT__bService__bManager
+187    Business__bApplications__band__bServices → Enterprise__bDatabases → Other
+19     Business__bApplications__band__bServices → Enterprise__bDatabases → Pinnacle
+154    Business__bApplications__band__bServices → Enterprise__bDatabases → SES
+0      Business__bApplications__band__bServices → eNUF__b__PResearch__bFunding__p
+49     Business__bApplications__band__bServices → ERS__b__PEffort__breporting__bsystem__p
+6      Business__bApplications__band__bServices → eSPR
+10     Business__bApplications__band__bServices → Facilities__bConnect → Operations__b__7__bMaintenance
+12     Business__bApplications__band__bServices → Facilities__bConnect → Other
+55     Business__bApplications__band__bServices → Facilities__bConnect → Project__bManagement
+41     Business__bApplications__band__bServices → Facilities__bConnect → Space
+1      Business__bApplications__band__bServices → Faculty__b180__b__u__bInterfolio
+9      Business__bApplications__band__bServices → Faculty__bAdministration__bSystem
+237    Business__bApplications__band__bServices → Faculty__bRecruiting__bSystem
+555    Business__bApplications__band__bServices → FAMIS
+157    Business__bApplications__band__bServices → GoAnywhere
+4      Business__bApplications__band__bServices → Google__bSearch__bAppliance__b__PGSA__p
+109    Business__bApplications__band__bServices → Granite__b__PCCM__bFacility__bMgmt__p
+122    Business__bApplications__band__bServices → GSTS__b__PGraduate__bStudent__bTracking__bSystem__p
+39     Business__bApplications__band__bServices → Handshake
+3963   Business__bApplications__band__bServices → IBuyNU__b__PSciQuest__p
+1985   Business__bApplications__band__bServices → InfoEd
+12     Business__bApplications__band__bServices → ISIS__b__PIntegrated__bSafety__p
+169    Business__bApplications__band__bServices → IT__bService__bManager → Agent → Add
+42     Business__bApplications__band__bServices → IT__bService__bManager → Agent → Delete
+47     Business__bApplications__band__bServices → IT__bService__bManager → Agent → Update
+38     Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Change__bManagement
+2      Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → CMDB
+1      Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Library__bWorkspace
+9      Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Problem__bManagement
+190    Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Service__bDesk
+11     Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Survey
+2      Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Weinberg__bWorkspace
+14     Business__bApplications__band__bServices → IT__bService__bManager → Reporting__bDB__fTableau__bInstance
+3      Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → Change__bManagement
+1      Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → CMDB
+0      Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → Library__bWorkspace
+1      Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → Problem__bManagement
+51     Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → Service__bDesk
+5      Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → Survey
+0      Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → Weinberg__bWorkspace
+47     Business__bApplications__band__bServices → IT__bService__bManager → Team → Add
+21     Business__bApplications__band__bServices → IT__bService__bManager → Team → Rename__fDelete
+51     Business__bApplications__band__bServices → IT__bService__bManager → Team → Update
+275    Business__bApplications__band__bServices → Key__bTrak
+1836   Business__bApplications__band__bServices → Kronos
+119    Business__bApplications__band__bServices → Lynda__dcom
+851    Business__bApplications__band__bServices → MachForm
+429    Business__bApplications__band__bServices → Micros__b3700
+604    Business__bApplications__band__bServices → MyHR → Benefits
+365    Business__bApplications__band__bServices → MyHR → Core
+969    Business__bApplications__band__bServices → MyHR → Other
+656    Business__bApplications__band__bServices → MyHR → Payroll
+346    Business__bApplications__band__bServices → MyHR → Recruiting
+700    Business__bApplications__band__bServices → MyHR → Security__b__u__bMyHR
+1441   Business__bApplications__band__bServices → MyHR__bLearn → General__bSupport
+42     Business__bApplications__band__bServices → MyHR__bLearn → Other
+1165   Business__bApplications__band__bServices → MyHR__bLearn → Performance__bExcellence__b__PPEX__p
+186    Business__bApplications__band__bServices → MyHR__bLearn → POI
+198    Business__bApplications__band__bServices → MyHR__bLearn → Title__bIX__bMisconduct
+193    Business__bApplications__band__bServices → Northwestern__bLoan__bApplication
+4      Business__bApplications__band__bServices → Northwestern__bMobile
+131    Business__bApplications__band__bServices → NSIS__b__PResearch__bSafety__p
+185    Business__bApplications__band__bServices → NU__bParking
+165    Business__bApplications__band__bServices → NU__bSOA → Other__bRequests
+58     Business__bApplications__band__bServices → NU__bSOA → Register__bNew__bAPI
+19     Business__bApplications__band__bServices → NU__bSOA → Register__bNew__bEvent__bMessaging
+181    Business__bApplications__band__bServices → NU__bSOA → Request__bAccess__bto__bExisting__bAPI__Ps__p
+18     Business__bApplications__band__bServices → NU__bSOA → Request__bAccess__bto__bExisting__bEvent__bMessaging
+39     Business__bApplications__band__bServices → NU__bSOA → Request__bto__bPublish__bYour__bAPI
+4142   Business__bApplications__band__bServices → NUFinancials → General__bLedger
+340    Business__bApplications__band__bServices → NUFinancials → Grants
+3046   Business__bApplications__band__bServices → NUFinancials → Security
+23611  Business__bApplications__band__bServices → NUFinancials → Supply__bChain
+0      Business__bApplications__band__bServices → NUInfo__fCentral__bWeb__bServer → Apache__bParameter__bChange
+3      Business__bApplications__band__bServices → NUInfo__fCentral__bWeb__bServer → Directories
+15     Business__bApplications__band__bServices → NUInfo__fCentral__bWeb__bServer → File__bor__bDirectory__bPermissions
+24     Business__bApplications__band__bServices → NUInfo__fCentral__bWeb__bServer → Other
+13     Business__bApplications__band__bServices → NUInfo__fCentral__bWeb__bServer → Virtual__bHosts
+40     Business__bApplications__band__bServices → NUInfo__fCentral__bWeb__bServer → Web__bRedirects__bor__bRewrite__bRules
+705    Business__bApplications__band__bServices → NUPlans
+85     Business__bApplications__band__bServices → NUPrint
+438    Business__bApplications__band__bServices → Odyssey__bPCS
+14     Business__bApplications__band__bServices → OnBase → Mobile__bApp
+200    Business__bApplications__band__bServices → OnBase → Other
+154    Business__bApplications__band__bServices → OnBase → Unity__bClient
+54     Business__bApplications__band__bServices → OnBase → Web__bClient
+30     Business__bApplications__band__bServices → OnTheHub__b__PKivuto__p
+2676   Business__bApplications__band__bServices → Other
+4014   Business__bApplications__band__bServices → Our__bNorthwestern → Other
+1616   Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Alumni
+202    Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Staff
+555    Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Volunteer
+61     Business__bApplications__band__bServices → Our__bNorthwestern → Security__band__bAccess → Alumni__bVolunteers
+33     Business__bApplications__band__bServices → Our__bNorthwestern → Security__band__bAccess → General__bAccess
+314    Business__bApplications__band__bServices → Our__bNorthwestern → System__bMaintenance__band__bModifications
+2      Business__bApplications__band__bServices → PerfectForms
+27     Business__bApplications__band__bServices → Plan__uIt__bPurple
+4      Business__bApplications__band__bServices → Police__bBlotter
+91     Business__bApplications__band__bServices → Qualtrics
+108    Business__bApplications__band__bServices → REACH
+0      Business__bApplications__band__bServices → Remedy__bContract__bApplication → Configuration__bUpdates
+0      Business__bApplications__band__bServices → Remedy__bContract__bApplication → Development
+3      Business__bApplications__band__bServices → Remedy__bContract__bApplication → Other
+0      Business__bApplications__band__bServices → Remedy__bContract__bApplication → User__bManagement
+0      Business__bApplications__band__bServices → Request__bTracker → Admin__bRequests → Off__bHours
+0      Business__bApplications__band__bServices → Request__bTracker → Admin__bRequests → On__bHours
+0      Business__bApplications__band__bServices → Request__bTracker → Research__bRequests → Off__bHours
+0      Business__bApplications__band__bServices → Request__bTracker → Research__bRequests → On__bHours
+0      Business__bApplications__band__bServices → Request__bTracker → Triage__bPhysical__bLayer → Off__bHours
+0      Business__bApplications__band__bServices → Request__bTracker → Triage__bPhysical__bLayer → On__bHours
+72     Business__bApplications__band__bServices → RES__b__PRoom__band__bEvent__bSystem__p
+349    Business__bApplications__band__bServices → Research__bPortal
+324    Business__bApplications__band__bServices → Residential__bManagement__bSystem
+19     Business__bApplications__band__bServices → SAFER
+15     Business__bApplications__band__bServices → Search__bBlox
+4      Business__bApplications__band__bServices → Silverstripe
+8      Business__bApplications__band__bServices → Siteimprove
+580    Business__bApplications__band__bServices → Smartsheet
+79     Business__bApplications__band__bServices → Splunk
+31     Business__bApplications__band__bServices → Tableau → Desktop__b__u__bTableau
+35     Business__bApplications__band__bServices → Tableau → Server__b__u__bTableau
+10     Business__bApplications__band__bServices → TGS__bAdmissions__b__PCollegeNET__p
+13     Business__bApplications__band__bServices → Tosca
+213    Business__bApplications__band__bServices → Undergraduate__bResearch__bGrants
+1129   Business__bApplications__band__bServices → Web__bContent__bManager__b__PCascade__p
+48     Business__bApplications__band__bServices → Web__bForms
+2      Business__bApplications__band__bServices → Weinberg__bForms__bEngine
+589    Business__bApplications__band__bServices → WildCARD
+17     Clinical__band__bMedical__bServices → AccessNET
+18     Clinical__band__bMedical__bServices → Cerner
+826    Clinical__band__bMedical__bServices → Epic
+95     Clinical__band__bMedical__bServices → Harvest__bLIS
+398    Clinical__band__bMedical__bServices → Other
+24     Clinical__band__bMedical__bServices → PACS
+152    Clinical__band__bMedical__bServices → Point__bn__bClick
+178    Clinical__band__bMedical__bServices → Powerchart
+30     Clinical__band__bMedical__bServices → ProPharm__bOne
+46     Clinical__band__bMedical__bServices → Titanium
+97     Critical__bFacility__bSite__bManagement → Cabinet__bProvisioning
+9      Critical__bFacility__bSite__bManagement → Cooling__bSystems → Airflow__bTiles__M__bBlanking__bPanels__M__bAir__bStops
+6      Critical__bFacility__bSite__bManagement → Cooling__bSystems → BAS__bReal__utime__bControls
+7      Critical__bFacility__bSite__bManagement → Cooling__bSystems → Central__bUtility__bPlant__b__PCUP__p
+11     Critical__bFacility__bSite__bManagement → Cooling__bSystems → Cold__bAisle__bContainment__band__bSensors
+8      Critical__bFacility__bSite__bManagement → Cooling__bSystems → Fan__bwall__M__bStulz__bHumidifier
+16     Critical__bFacility__bSite__bManagement → Cooling__bSystems → Leak__bDetection__M__bSite__bGlass__M__bCondensate__bDrain__bLine
+485    Critical__bFacility__bSite__bManagement → Cooling__bSystems → Mechanicals__b__PCRAC__M__bIn__uRow__M__bPumps__M__bChillers__p
+29     Critical__bFacility__bSite__bManagement → Cooling__bSystems → Other
+17     Critical__bFacility__bSite__bManagement → Cooling__bSystems → Refrigerant__band__bChillgard__bDetection
+10     Critical__bFacility__bSite__bManagement → Electrical__bSystems → BAS__bReal__utime__bControls
+79     Critical__bFacility__bSite__bManagement → Electrical__bSystems → CDUs__band__bGrounding
+135    Critical__bFacility__bSite__bManagement → Electrical__bSystems → DC__bRectifier__bPlant__band__bBatteries
+242    Critical__bFacility__bSite__bManagement → Electrical__bSystems → Generator
+54     Critical__bFacility__bSite__bManagement → Electrical__bSystems → Main__bSwitchgear__M__bSwitchboard__M__bATS__M__bATC
+112    Critical__bFacility__bSite__bManagement → Electrical__bSystems → PDUs__M__bPDR__M__bbranch__bfeeders__band__breceptacles
+248    Critical__bFacility__bSite__bManagement → Electrical__bSystems → UPS__band__bBattery__bCabinets
+115    Critical__bFacility__bSite__bManagement → Electrical__bSystems → Utility
+17     Critical__bFacility__bSite__bManagement → Fire__bProtection → Building__bEvacuations__band__bAlarms
+32     Critical__bFacility__bSite__bManagement → Fire__bProtection → Inspections
+14     Critical__bFacility__bSite__bManagement → Fire__bProtection → Scheduled__bMaintenance
+136    Critical__bFacility__bSite__bManagement → Professional__bCleaning
+1836   Critical__bFacility__bSite__bManagement → Site__bCheck
+1      Critical__bFacility__bSite__bManagement → Structural__bor__bArchitectural → Access__bFloor__bPanel__M__bStringer__M__bPedestal
+21     Critical__bFacility__bSite__bManagement → Structural__bor__bArchitectural → Ceilings__M__bFloors__M__bWalls__M__bWindows
+6      Critical__bFacility__bSite__bManagement → Structural__bor__bArchitectural → Flood__M__bFire__M__bWind__bDamage
+3      Critical__bFacility__bSite__bManagement → Structural__bor__bArchitectural → Lighting
+24     Critical__bFacility__bSite__bManagement → Structural__bor__bArchitectural → Other
+0      Critical__bFacility__bSite__bManagement → Structural__bor__bArchitectural → Raised__bFloor__bSubstructure__band__bBracing
+7      Critical__bFacility__bSite__bManagement → Structural__bor__bArchitectural → Signage
+159    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Adobe__bConnect
+569    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Blue__bJeans
+478    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Bulkmail
+15     Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Cisco__bIronPort
+3      Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Digital__bSignage
+327    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → EDS__uEmail__bDefense__bSystem
+3047   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Calendar
+675    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Android
+72     Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Apple__bMail
+1463   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → iOS
+386    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Other
+10187  Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Outlook
+1554   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → OWA
+212    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Thunderbird
+16     Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Windows__bPhone
+898    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Distribution__bList
+17576  Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Exchange__bAccount__bManagement
+2632   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Other
+1050   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → Distribution__bList
+241    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → ORG__bCalendar
+2098   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → ORG__bMailbox
+965    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → Room
+1128   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Alumni
+232    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Faculty__fStaff
+176    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Kellogg
+283    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Organizational
+132    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Other
+3010   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Student
+57     Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Jabber
+6114   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Listserv
+280    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Microsoft__bTeams
+3840   Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Northwestern__bBox
+823    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Other
+1      Email__M__bCalendaring__M__bMessaging__band__bCollaboration → PGI__bGlobalMeet
+13     Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Proofpoint
+321    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → SharePoint
+471    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Skype__bfor__bBusiness__fLync
+583    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Voicemail
+194    Email__M__bCalendaring__M__bMessaging__band__bCollaboration → WebEx
+8      Email__M__bCalendaring__M__bMessaging__band__bCollaboration → WebEx__bTeams
+3      Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Yammer
+2571   Hardware__b__7__bSoftware → Accessories__M__bAdapters__M__band__bPeripherals
+4      Hardware__b__7__bSoftware → ACT__B
+4181   Hardware__b__7__bSoftware → Adobe__bCreative__bSuite
+980    Hardware__b__7__bSoftware → Adobe__bReader
+3      Hardware__b__7__bSoftware → Assistive__bTechnology
+16     Hardware__b__7__bSoftware → AutoDesk
+4      Hardware__b__7__bSoftware → Axis__bCamera
+9      Hardware__b__7__bSoftware → Bluebeam__bRevu
+5068   Hardware__b__7__bSoftware → Client__bBackup__b__PCrashPlan__p
+629    Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Agent__bInstall__fUninstall
+618    Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → General__bQuestion
+554    Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Personal__bDevice__bHelp
+1900   Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Troubleshooting
+162    Hardware__b__7__bSoftware → Client__bManagement__b__PCasper__p
+230    Hardware__b__7__bSoftware → Client__bManagement__b__PKACE__bK1000__p
+71     Hardware__b__7__bSoftware → Client__bManagement__b__PKACE__bK2000__p
+7534   Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Access__b__PAdmin__bor__bLogin__p
+19992  Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Deployment__fSetup
+812    Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Loaner
+107    Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Lost__fStolen__fMissing
+3160   Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Other
+7425   Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Purchase
+2676   Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Recycle__fRepurpose
+8987   Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Repair
+1429   Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Upgrade
+42     Hardware__b__7__bSoftware → Dragon
+1041   Hardware__b__7__bSoftware → EndNote
+8      Hardware__b__7__bSoftware → FAMIS__bMobile
+240    Hardware__b__7__bSoftware → Flash
+1495   Hardware__b__7__bSoftware → Hard__bDrive__bEncryption
+5      Hardware__b__7__bSoftware → Item__bCheckout → Adapter
+29     Hardware__b__7__bSoftware → Item__bCheckout → Condenser__bMicrophone
+12     Hardware__b__7__bSoftware → Item__bCheckout → Cord__b__PExtension__fPower__fEthernet__p
+10     Hardware__b__7__bSoftware → Item__bCheckout → DVD__bDrive
+1      Hardware__b__7__bSoftware → Item__bCheckout → Headphones
+6      Hardware__b__7__bSoftware → Item__bCheckout → Projector
+4      Hardware__b__7__bSoftware → Item__bCheckout → Slide__bTray
+1579   Hardware__b__7__bSoftware → Java
+87     Hardware__b__7__bSoftware → Lab__bComputer
+1      Hardware__b__7__bSoftware → Lab__bPlotter → Hardware__bTroubleshooting__fJam
+0      Hardware__b__7__bSoftware → Lab__bPlotter → Refilling__bPaper__fToner
+18     Hardware__b__7__bSoftware → Lab__bPlotter → Usage
+24     Hardware__b__7__bSoftware → Lab__bPrinter → Hardware__bTroubleshooting__fJam
+16     Hardware__b__7__bSoftware → Lab__bPrinter → Refilling__bPaper__fToner
+7      Hardware__b__7__bSoftware → Lab__bPrinter → Reprinting
+62     Hardware__b__7__bSoftware → Lab__bPrinter → Usage
+41     Hardware__b__7__bSoftware → Lab__bSoftware → General__bInfo__fAvailability__fRequest
+17     Hardware__b__7__bSoftware → Lab__bSoftware → Usage__fTroubleshooting
+496    Hardware__b__7__bSoftware → macOS
+0      Hardware__b__7__bSoftware → Media__bCart
+2      Hardware__b__7__bSoftware → Media__bEditing
+28     Hardware__b__7__bSoftware → Microscope
+2347   Hardware__b__7__bSoftware → Microsoft__bOffice → Departmental__bIssue
+332    Hardware__b__7__bSoftware → Microsoft__bOffice → Home__bUse__bProgram
+2054   Hardware__b__7__bSoftware → Microsoft__bOffice → Office__b365
+620    Hardware__b__7__bSoftware → Microsoft__bOffice → Other
+90     Hardware__b__7__bSoftware → Microsoft__bProject
+227    Hardware__b__7__bSoftware → Microsoft__bVisio
+50     Hardware__b__7__bSoftware → Mobile__bDevice__bManagement__b__PMDM__p
+2605   Hardware__b__7__bSoftware → Monitor
+26     Hardware__b__7__bSoftware → Northwestern__bMobile
+93     Hardware__b__7__bSoftware → Oracle__bClient
+12765  Hardware__b__7__bSoftware → Other
+187    Hardware__b__7__bSoftware → Parallels__fVMware
+37     Hardware__b__7__bSoftware → Photocopier
+12     Hardware__b__7__bSoftware → Platereader
+7000   Hardware__b__7__bSoftware → Printer__b__Pincluding__bAccess__band__bSoftware__bConfiguration__p
+27     Hardware__b__7__bSoftware → Projecto
+176    Hardware__b__7__bSoftware → Redhat__bLinux__b__PRHEL__p
+1172   Hardware__b__7__bSoftware → Remote__bDesktop
+1799   Hardware__b__7__bSoftware → Remote__bSupport__b__PBomgar__p
+62     Hardware__b__7__bSoftware → Scanner → Flatbed__bscanner
+55     Hardware__b__7__bSoftware → Scanner → Simplescan__bstation
+11575  Hardware__b__7__bSoftware → Shared__bNetwork__bDrive__fDepartmental__bServer
+21     Hardware__b__7__bSoftware → Silverlight
+6      Hardware__b__7__bSoftware → Soundbooth
+1034   Hardware__b__7__bSoftware → Symantec__fNorton__bAntivirus__fEndPoint__bProtection
+4222   Hardware__b__7__bSoftware → Web__bBrowsers
+3335   Hardware__b__7__bSoftware → Windows
+40886  Help__band__bSupport → Directory__bAssistance
+16359  Help__band__bSupport → General__bQuestion
+142    Help__band__bSupport → Guest__bAssistance
+120    Help__band__bSupport → Knowledge__bBase
+2      Help__band__bSupport → Mobile__bDeveloper__bPrograms → Apple__bApp__bStore
+0      Help__band__bSupport → Mobile__bDeveloper__bPrograms → Apple__bEducational
+2      Help__band__bSupport → Mobile__bDeveloper__bPrograms → Apple__bEnterprise
+72     Help__band__bSupport → Office__bSupplies
+239    Help__band__bSupport → Onboarding__fOffboarding
+484    Help__band__bSupport → Rounds
+1974   Identity__bManagement__band__bAuthentication → Active__bDirectory__fRadiant__bLogic
+13     Identity__bManagement__band__bAuthentication → Group__bManagement__b__PCayosoft__p
+55     Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → Call__bAuthentication
+77     Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → Mobile__bApp
+60     Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → System__bConfiguration
+596    Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → User__bActivation__fRegistration
+10120  Identity__bManagement__band__bAuthentication → NetID → Creation__bof__bManual__bNetIDs
+19309  Identity__bManagement__band__bAuthentication → NetID → Modification__bof__bExisting__bNetIDs
+2473   Identity__bManagement__band__bAuthentication → NetID → Other
+49602  Identity__bManagement__band__bAuthentication → NetID → Password__fActivation
+1515   Identity__bManagement__band__bAuthentication → NUValidate
+2484   Identity__bManagement__band__bAuthentication → Online__bdirectory__fLDAP__fDirectory__bServices
+646    Identity__bManagement__band__bAuthentication → Online__bPassport__b__PWeb__bSSO__p
+360    Identity__bManagement__band__bAuthentication → Password__bVault__b__PCyberArk__p
+92     Infrastructure → A__7RT__bManaged__bServer
+108    Infrastructure → Cloud__bServices → AWS
+56     Infrastructure → Cloud__bServices → GitHub
+3      Infrastructure → Cloud__bServices → Jenkins
+39     Infrastructure → Cloud__bServices → NUCloud
+67     Infrastructure → Cloud__bServices → Other
+54     Infrastructure → Co__ulocation__bEquipment → Access
+92     Infrastructure → Co__ulocation__bEquipment → Hardware
+21     Infrastructure → Co__ulocation__bEquipment → Network → Off__bHours
+61     Infrastructure → Co__ulocation__bEquipment → Network → On__bHours
+9      Infrastructure → Co__ulocation__bEquipment → Power
+4      Infrastructure → Co__ulocation__bEquipment → Software
+14     Infrastructure → Database → Application__bSupport → Billing
+3      Infrastructure → Database → Application__bSupport → Connectivity__fSpeed
+8      Infrastructure → Database → Application__bSupport → Coverage
+0      Infrastructure → Database → Application__bSupport → Defect
+45     Infrastructure → Database → Application__bSupport → End__bUser__bSupport
+1      Infrastructure → Database → Application__bSupport → Fiscal__bYear__bEnd
+1      Infrastructure → Database → Application__bSupport → Refund
+3      Infrastructure → Database → Application__bSupport → Regs
+4      Infrastructure → Database → Application__bSupport → Tax__bUpdate
+43     Infrastructure → Database → Audit
+211    Infrastructure → Database → Configuration__bChange
+270    Infrastructure → Database → Data__bModification
+96     Infrastructure → Database → Database__bCreate__fDrop
+207    Infrastructure → Database → Errors
+4      Infrastructure → Database → Infrastructure → Client__bInstall
+7      Infrastructure → Database → Infrastructure → Cluster__bMaintenance
+24     Infrastructure → Database → Infrastructure → File__bCleanup
+5      Infrastructure → Database → Infrastructure → OEM__bMaintenance
+0      Infrastructure → Database → Infrastructure → Template__bMaintenance
+35     Infrastructure → Database → Infrastructure → Upgrade__fPatching
+117    Infrastructure → Database → Object__bModification
+249    Infrastructure → Database → Other
+112    Infrastructure → Database → Performance__bIssues
+73     Infrastructure → Database → Refresh__fBackup → Schema
+34     Infrastructure → Database → Refresh__fBackup → Table__fObject
+238    Infrastructure → Database → Refresh__fBackup → Whole__bDatabase__fInstance
+46     Infrastructure → Database → Research
+124    Infrastructure → Database → User__bMaintenance → Add__fRemove__bUser__fRole
+232    Infrastructure → Database → User__bMaintenance → Login__fPassword__bReset
+411    Infrastructure → Database → User__bMaintenance → Modify__bAccess__bRights
+0      Infrastructure → Facilities__bManagement → Acromag
+0      Infrastructure → Facilities__bManagement → ALC
+7      Infrastructure → Facilities__bManagement → ArcGIS
+0      Infrastructure → Facilities__bManagement → EverRun
+2      Infrastructure → Facilities__bManagement → Johnson__bControls
+2      Infrastructure → Facilities__bManagement → Lutron
+3      Infrastructure → Facilities__bManagement → Millennium
+1      Infrastructure → Facilities__bManagement → SCADA
+2      Infrastructure → Facilities__bManagement → Siemens
+2      Infrastructure → Facilities__bManagement → TRIDIUM
+0      Infrastructure → Facilities__bManagement → TrueSite
+10876  Infrastructure → Feinberg__bManaged__bServer
+1158   Infrastructure → Incommon__bCertificates
+200    Infrastructure → Law__bManaged__bServer
+6      Infrastructure → Monitoring__band__bManagement__bServices → dcTrack
+4      Infrastructure → Monitoring__band__bManagement__bServices → Foreseer
+93     Infrastructure → Monitoring__band__bManagement__bServices → Other
+506    Infrastructure → Monitoring__band__bManagement__bServices → Solarwinds
+1005   Infrastructure → Server → Access
+437    Infrastructure → Server → Backup__fRestore
+185    Infrastructure → Server → Operating__bSystem → Configuration
+223    Infrastructure → Server → Operating__bSystem → Software
+52     Infrastructure → Server → Physical__bServer__bRequest
+121    Infrastructure → Server → Power__bCycle
+335    Infrastructure → Server → Server__bDecommission
+2      Infrastructure → Server → Server__bhardware__bfailure → CPU
+18     Infrastructure → Server → Server__bhardware__bfailure → Disk
+9      Infrastructure → Server → Server__bhardware__bfailure → Memory
+27     Infrastructure → Server → Server__bhardware__bfailure → Other
+58     Infrastructure → Server → Server__bResource__bProvisioning → CPU
+35     Infrastructure → Server → Server__bResource__bProvisioning → Deployment__fSetup
+239    Infrastructure → Server → Server__bResource__bProvisioning → Disk
+57     Infrastructure → Server → Server__bResource__bProvisioning → Memory
+24     Infrastructure → Server → Server__bSecurity → Firewall
+127    Infrastructure → Server → Server__bSecurity → IPtables
+89     Infrastructure → Server → Server__bSecurity → Patches
+6      Infrastructure → Server → Server__bSecurity → Virus__fMalware
+78     Infrastructure → Server → Virtual__bServer__bRequest → Other
+284    Infrastructure → Server → Virtual__bServer__bRequest → RHEL
+391    Infrastructure → Server → Virtual__bServer__bRequest → RHEL__AMonitoring
+45     Infrastructure → Server → Virtual__bServer__bRequest → Virtual__bAppliance
+20     Infrastructure → Server → Virtual__bServer__bRequest → Virtual__bAppliance__AMonitoring
+351    Infrastructure → Server → Virtual__bServer__bRequest → Windows
+262    Infrastructure → Server → Virtual__bServer__bRequest → Windows__AMonitoring
+275    Infrastructure → Storage → Access
+59     Infrastructure → Storage → Storage__bhardware__bfailure → Disk
+14     Infrastructure → Storage → Storage__bhardware__bfailure → Other
+5      Infrastructure → Storage → Storage__bhardware__bfailure → Tape
+13     Infrastructure → Storage → Storage__bhardware__bfailure → Tape__bLibrary
+404    Infrastructure → Storage → Storage__bResource__bProvisioning
+847    IT__bProfessional__bServices
+30     Operation__band__bControl → Asset__bManagement → Asset__bTagging
+85     Operation__band__bControl → Asset__bManagement → dcTrack__b__Pequipment__badds__M__bmoves__M__bchanges__p
+151    Operation__band__bControl → Asset__bManagement → Hardware__bDecommissioning → Media__bDestruction__band__bDisposal
+50     Operation__band__bControl → Asset__bManagement → Hardware__bDecommissioning → Media__bReuse__bor__bReturn
+46     Operation__band__bControl → Asset__bManagement → Hardware__bDecommissioning → No__bMedia__binvolved
+44     Operation__band__bControl → Asset__bManagement → Hardware__bInstallation → Network__b__Pfirewalls__M__bswitch__p
+331    Operation__band__bControl → Asset__bManagement → Hardware__bInstallation → Server__b__f__bStorage__b__f__bConsole__bSwitch
+6      Operation__band__bControl → Asset__bManagement → Hardware__bRelocation__b__Pwithin__bfacility__p → Network__b__Pfirewalls__M__bswitch__p
+57     Operation__band__bControl → Asset__bManagement → Hardware__bRelocation__b__Pwithin__bfacility__p → Server__b__f__bStorage__b__f__bConsole__bSwitch
+47     Operation__band__bControl → Asset__bManagement → Inventory__bControl__b__Ptools__M__bkeys__M__bspare__bparts__p
+186    Operation__band__bControl → Asset__bManagement → Vendor__bContracts__band__bMaintenance__bAgreements
+459    Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bCATracks
+37     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Administrative__bDashboard
+29     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → ARD__bReporting
+24     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Effort__bReporting
+6      Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Endowment__b__7__bStewardship__bReporting
+116    Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Enterprise__bReporting__b__7__bAnalytics__bTool
+23     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → FASIS__bReporting
+20     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → NU__bFinancials__bAd__bHoc__bReporting
+17     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → NU__bFinancials__bCanned__bReporting
+1      Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → NuCore
+1      Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → ORIS__bReporting
+0      Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Parking__bReports
+15     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → SES__bReporting
+4      Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Student__bFunding
+0      Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Undergraduate__bTransition__bReports
+735    Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bFFRA
+555    Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bMyHR
+54     Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bParking__band__bTraffic
+1137   Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bSES
+509    Operation__band__bControl → Bridge__bfor__bIncident__bManagement
+462    Operation__band__bControl → IT__bAudit → Audit__c__bDaily__bApplication__bAudit__bReport
+11     Operation__band__bControl → IT__bAudit → Audit__c__bExternal__bAuditor
+137    Operation__band__bControl → IT__bAudit → Audit__c__bMonthly__bSystem__bAdmin__bLogin__bAudit
+778    Operation__band__bControl → IT__bAudit → Audit__c__bWeekly__bDBA__bAudit
+159    Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Applications → Off__bHours
+131    Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Applications → On__bHours
+1282   Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Network → Off__bHours
+948    Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Network → On__bHours
+264    Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → O__fS → Off__bHours
+264    Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → O__fS → On__bHours
+65     Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Storage → Off__bHours
+34     Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Storage → On__bHours
+211    Operation__band__bControl → Offsite__bMedia__bVaulting__band__bTape__bBackup → Iron__bMountain
+32     Operation__band__bControl → Offsite__bMedia__bVaulting__band__bTape__bBackup → NetBackup
+92     Operation__band__bControl → Offsite__bMedia__bVaulting__band__bTape__bBackup → Tape__bRobot
+0      Operation__band__bControl → Offsite__bMedia__bVaulting__band__bTape__bBackup → Telecom__bSwitch__bRoom__bBackups
+9      Operation__band__bControl → Physical__bEntry__bControls → Camera__bSurveillance
+0      Operation__band__bControl → Physical__bEntry__bControls → Door__bCall__bEntry__bSystem
+46     Operation__band__bControl → Physical__bEntry__bControls → Electronic__bAccess__bControl__bBadges
+26     Operation__band__bControl → Physical__bEntry__bControls → Electronic__bAccess__bControl__bBadges__bMarlok__bkey
+40     Operation__band__bControl → Physical__bEntry__bControls → Electronic__bAccess__bControl__bDoors__band__bReaders
+391    Operation__band__bControl → Physical__bEntry__bControls → Site__bAccess__bRequest
+58     Operation__band__bControl → Physical__bEntry__bControls → University__bData__bCenter__bTours
+47     Operation__band__bControl → Physical__bEntry__bControls → Visitor__bKiosk
+44     Operation__band__bControl → Printing__b__PAP__M__bPayroll__M__bTax__bForms__p → Printer__bMaintenance__M__bSupplies__M__band__bRepair
+72     Operation__band__bControl → Printing__b__PAP__M__bPayroll__M__bTax__bForms__p → Request__bto__bPrint
+26     Operation__band__bControl → Purchasing → Ad__bHoc__bPurchases
+88     Operation__band__bControl → Purchasing → Bid__M__bRFQ__M__bRFP
+193    Operation__band__bControl → Shipping__fReceiving__fSecure__bStorage
+444    Operation__band__bControl → Smart__bHands → Admin__bRequests → Off__bHours
+276    Operation__band__bControl → Smart__bHands → Admin__bRequests → On__bHours
+55     Operation__band__bControl → Smart__bHands → Research__bRequests → Off__bHours
+97     Operation__band__bControl → Smart__bHands → Research__bRequests → On__bHours
+10     Operation__band__bControl → Smart__bHands → Triage__bPhysical__bLayer → Off__bHours
+28     Operation__band__bControl → Smart__bHands → Triage__bPhysical__bLayer → On__bHours
+22     Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bCATracks
+65     Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bFASIS
+106    Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bFFRA
+6      Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bParking__band__bTraffic
+161    Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bSES
+93     Operation__band__bControl → SOC__bMonitoring → Cooling__band__bPower__bMonitoring
+651    Operation__band__bControl → SOC__bMonitoring → E911__bFiles
+153    Operation__band__bControl → SOC__bMonitoring → Network__bOperations__bConsole → TV__bServices
+4060   Operation__band__bControl → SOC__bMonitoring → Network__bOperations__bConsole → Voice__bServices
+2634   Operation__band__bControl → SOC__bMonitoring → Network__bOperations__bConsole → Wired__bEthernet
+321    Operation__band__bControl → SOC__bMonitoring → Shift__bReport
+627    Operation__band__bControl → SOC__bMonitoring → SOC__bMetrics
+719    Operation__band__bControl → SOC__bMonitoring → Subnet__bChange__bRequests → Quantity__b1__bthru__b5
+51     Operation__band__bControl → SOC__bMonitoring → Subnet__bChange__bRequests → Quantity__b6__bthru__b10
+62     Operation__band__bControl → SOC__bMonitoring → Subnet__bChange__bRequests → Quantity__bgreater__bthan__b10
+36     Research__bResources → ArcGIS
+7      Research__bResources → Cloud
+5      Research__bResources → Data__bScience
+1      Research__bResources → Data__bWorkflow
+11     Research__bResources → DNAStar__bLasergene
+30     Research__bResources → FlowJo
+49     Research__bResources → JMP
+66     Research__bResources → Lab__bIT
+0      Research__bResources → Maple
+24     Research__bResources → Mathematica
+652    Research__bResources → MATLAB
+875    Research__bResources → Other
+1851   Research__bResources → Prism__bGraphpad
+24     Research__bResources → Qualtrics
+2646   Research__bResources → Quest → Account
+21     Research__bResources → Quest → Application__bLicensing
+0      Research__bResources → Quest → Application__bSupport → Billing
+2      Research__bResources → Quest → Application__bSupport → Connectivity__fSpeed
+0      Research__bResources → Quest → Application__bSupport → Coverage
+0      Research__bResources → Quest → Application__bSupport → Defect
+12     Research__bResources → Quest → Application__bSupport → End__bUser__bSupport
+0      Research__bResources → Quest → Application__bSupport → Fiscal__bYear__bEnd
+0      Research__bResources → Quest → Application__bSupport → Refund
+1      Research__bResources → Quest → Application__bSupport → Regs
+0      Research__bResources → Quest → Application__bSupport → Tax__bUpdate
+6      Research__bResources → Quest → Backup__fRestore
+1      Research__bResources → Quest → Ethernet
+11     Research__bResources → Quest → File
+45     Research__bResources → Quest → Filesystem
+8      Research__bResources → Quest → Hardware__bPurchasing
+86     Research__bResources → Quest → Hardware__bTroubleshooting
+1182   Research__bResources → Quest → Job__bScheduler
+0      Research__bResources → Quest → Maintenance → Data__bCleanup
+0      Research__bResources → Quest → Maintenance → Giving__bTransaction
+1      Research__bResources → Quest → Maintenance → Prospect__b__u__bStaff__bGoal
+0      Research__bResources → Quest → Maintenance → Prospect__b__u__bStaff__bTable
+0      Research__bResources → Quest → Maintenance → Prospect__b__UJud___bGeneral
+0      Research__bResources → Quest → Maintenance → TMS__bCode
+24     Research__bResources → Quest → Monitoring
+0      Research__bResources → Quest → Network → Off__bHours
+3      Research__bResources → Quest → Network → On__bHours
+3      Research__bResources → Quest → Network__bInfiniband
+1452   Research__bResources → Quest → Other
+43     Research__bResources → Quest → Provisioning
+1305   Research__bResources → Quest → Quest__b__u__bApplications
+203    Research__bResources → Quest → Scheduler
+32     Research__bResources → Quest → Security__fPatching
+405    Research__bResources → Quest → Software__bInstall
+1      Research__bResources → Quest → Storage → Off__bHours
+5      Research__bResources → Quest → Storage → On__bHours
+28     Research__bResources → Quest → Transfer
+42     Research__bResources → REDCap
+576    Research__bResources → Research__bData__bStorage
+942    Research__bResources → SAS
+994    Research__bResources → Social__bSciences__bComputing__bCluster__b__PSSCC__p
+14     Research__bResources → Software
+1308   Research__bResources → SPSS__fPASW
+277    Research__bResources → Stata
+347    Research__bResources → Vault → Collaborative__bAccount
+29     Research__bResources → Vault → Generic__bVault__bAccount
+17     Research__bResources → Vault → Other
+3      Research__bResources → Vault → Supplementary__bAccount
+3      Research__bResources → Visualization
+0      Research__bResources → Wellspring__fSophia__bImplementation
+4237   Security__band__bCompliance → Account__bCompromise__b__Pincluding__bPhishing__band__bSpam__p
+931    Security__band__bCompliance → Copyright__bViolation
+1372   Security__band__bCompliance → Malware__band__bVirus
+1343   Security__band__bCompliance → Other
+862    Technology__bSpaces → Audio__uVisual__b__PAV__p → Crestron__bissues
+116    Technology__bSpaces → Audio__uVisual__b__PAV__p → Equipment__bLoan
+410    Technology__bSpaces → Audio__uVisual__b__PAV__p → Event__bSupport
+1706   Technology__bSpaces → Audio__uVisual__b__PAV__p → hardware__bperformance__bchanged__fdegraded__b__u__bcite__btype__bin__bdescription
+52     Technology__bSpaces → Audio__uVisual__b__PAV__p → Internet__bconnection
+2217   Technology__bSpaces → Audio__uVisual__b__PAV__p → Laptop__bconnection__band__bconfiguration
+2202   Technology__bSpaces → Audio__uVisual__b__PAV__p → Other
+1090   Technology__bSpaces → Audio__uVisual__b__PAV__p → Podium__baccess__M__bupkeep__M__bpower
+2114   Technology__bSpaces → Audio__uVisual__b__PAV__p → Projector__bcolor__M__bcontrol__M__band__bother
+459    Technology__bSpaces → Audio__uVisual__b__PAV__p → Projector__blamp__f__blamp__bwarning
+120    Technology__bSpaces → Audio__uVisual__b__PAV__p → Training__bAD__bHOC__band__bas__bresult__bof__btrouble__bshooting
+105    Technology__bSpaces → Audio__uVisual__b__PAV__p → Wireless__bPresentation
+248    Technology__bSpaces → Computer__bSupport__b__PCS__p → boot__bpicker__fReboot__fsleep__bissue
+521    Technology__bSpaces → Computer__bSupport__b__PCS__p → computer__bhardware
+550    Technology__bSpaces → Computer__bSupport__b__PCS__p → Other
+274    Technology__bSpaces → Computer__bSupport__b__PCS__p → Software__bIssue
+159    Technology__bSpaces → Computer__bSupport__b__PCS__p → Software__bRequest
+48     Technology__bSpaces → Computer__bSupport__b__PCS__p → Training__bAD__bHOC__band__bas__bresult__bof__btrouble__bshooting
+202    Technology__bSpaces → Computer__bSupport__b__PCS__p → USB__M__bkeyboard__M__bmice__M__bdiscs
+1084   Technology__bSpaces → Event__bSupport__b__PEV__p
+62     Technology__bSpaces → Lecture__bCapture__b__PLC__p → Add__fchange__bschedule__brequest
+17     Technology__bSpaces → Lecture__bCapture__b__PLC__p → Audio__bissue
+75     Technology__bSpaces → Lecture__bCapture__b__PLC__p → Capture__bAgent__fDevice__bissue
+538    Technology__bSpaces → Lecture__bCapture__b__PLC__p → Other
+9      Technology__bSpaces → Lecture__bCapture__b__PLC__p → Schedule__berror__b__Pentry__p
+31     Technology__bSpaces → Lecture__bCapture__b__PLC__p → Video__bissue
+57     Technology__bSpaces → LST__btier__b2__bonly → Other
+21     Technology__bSpaces → Mediasite__bInfrastructure → Feature__brequest
+28     Technology__bSpaces → Mediasite__bInfrastructure → Network__berror
+7      Technology__bSpaces → Mediasite__bInfrastructure → Server__bHardware
+19     Technology__bSpaces → Mediasite__bInfrastructure → Server__bsoftware
+4      Technology__bSpaces → Mediasite__bInfrastructure → Test__brequest
+319    Technology__bSpaces → Orientation
+1834   Technology__bSpaces → Other
+213    Technology__bSpaces → Videoconferencing__b__PVC__p → Conference__bScheduling
+307    Technology__bSpaces → Videoconferencing__b__PVC__p → Connection__bTest
+277    Technology__bSpaces → Videoconferencing__b__PVC__p → hardware__bperformance__bchanged__fdegraded__b__u__bcite__btype__bin__bdescription
+428    Technology__bSpaces → Videoconferencing__b__PVC__p → Other
+223    Technology__bSpaces → Videoconferencing__b__PVC__p → Testing__bissues
+1395   Technology__bSpaces → Videoconferencing__b__PVC__p → VC__bIn__bSession__bSupport
+71     Technology__bSpaces → Wireless__bPresentation__b__PWP__p
+115    Telecommunications__band__bNetworking → Cellular__fDAS
+94     Telecommunications__band__bNetworking → DHCP → Configuration
+22     Telecommunications__band__bNetworking → DHCP → Service__bPerformance__bIssue__bor__bInterruption
+1134   Telecommunications__band__bNetworking → DNS → Configuration
+49     Telecommunications__band__bNetworking → DNS → Service__bPerformance__bIssue__bor__bInterruption
+91     Telecommunications__band__bNetworking → External__bRequest
+2823   Telecommunications__band__bNetworking → Firewall → Configuration
+88     Telecommunications__band__bNetworking → Firewall → Install__fObtain
+37     Telecommunications__band__bNetworking → Firewall → Rule__bChange__uDenied
+4666   Telecommunications__band__bNetworking → Firewall → Rule__bProcessed
+9      Telecommunications__band__bNetworking → Firewall → Rule__bProcessed__uEngineer__bError
+7      Telecommunications__band__bNetworking → Firewall → Rule__bProcessed__uExternal
+8      Telecommunications__band__bNetworking → Firewall → Rule__bProcessed__uFirewall__bError
+18     Telecommunications__band__bNetworking → Firewall → Rule__bProcessed__uUser__bError
+83     Telecommunications__band__bNetworking → Firewall → Service__bPerformance__bIssue__bor__bInterruption
+16     Telecommunications__band__bNetworking → FM__bPrivate__bNetworks
+5      Telecommunications__band__bNetworking → FM__bPublic__bNetworks
+219    Telecommunications__band__bNetworking → NAC__b__PNetwork__bAccess__bControl__p
+190    Telecommunications__band__bNetworking → NUSA
+3227   Telecommunications__band__bNetworking → Other
+5      Telecommunications__band__bNetworking → Routing__fInfrastructure → Authentication__UGJc___b__PRADIUS__p
+65     Telecommunications__band__bNetworking → Routing__fInfrastructure → Border__fWAN
+80     Telecommunications__band__bNetworking → Routing__fInfrastructure → Core__fDistribution
+70     Telecommunications__band__bNetworking → Routing__fInfrastructure → Deny__bUnsolicited__bInbound__bTraffic
+77     Telecommunications__band__bNetworking → Routing__fInfrastructure → External__bISP
+121    Telecommunications__band__bNetworking → Routing__fInfrastructure → Load__bBalancing
+5      Telecommunications__band__bNetworking → Routing__fInfrastructure → Network__uPower__uComEd
+22     Telecommunications__band__bNetworking → Routing__fInfrastructure → Network__uPower__uFM__fBuilding
+32     Telecommunications__band__bNetworking → Routing__fInfrastructure → Network__uPower__uTNS
+703    Telecommunications__band__bNetworking → Routing__fInfrastructure → Other
+28     Telecommunications__band__bNetworking → Routing__fInfrastructure → SSL__bCertificate__bHosting__bVerification
+631    Telecommunications__band__bNetworking → Routing__fInfrastructure → Subnet
+1      Telecommunications__band__bNetworking → Routing__fInfrastructure → Truesight
+780    Telecommunications__band__bNetworking → SSL__uVPN → Access
+318    Telecommunications__band__bNetworking → SSL__uVPN → Configuration
+76     Telecommunications__band__bNetworking → SSL__uVPN → Service__bPerformance__bIssue__bor__bInterruption
+105    Telecommunications__band__bNetworking → TV__bServices → Cable__bTV
+5      Telecommunications__band__bNetworking → TV__bServices → DirecTV
+263    Telecommunications__band__bNetworking → TV__bServices → Xfinity__bOn__bCampus
+46     Telecommunications__band__bNetworking → Two__uway__bRadio
+41     Telecommunications__band__bNetworking → Voice__bServices → 911__bEmergency__bIssues
+77     Telecommunications__band__bNetworking → Voice__bServices → Conference__bBridge
+1036   Telecommunications__band__bNetworking → Voice__bServices → Enhanced__bACD
+2115   Telecommunications__band__bNetworking → Voice__bServices → Handsets__fEndpoints__fSoft__uclients
+472    Telecommunications__band__bNetworking → Voice__bServices → International__fLong__bDistance__fAuthorization__bCode
+920    Telecommunications__band__bNetworking → Voice__bServices → Other
+13     Telecommunications__band__bNetworking → Voice__bServices → Speech__bAttendant
+1326   Telecommunications__band__bNetworking → Voice__bServices → TDM__bTelephone__bService
+34     Telecommunications__band__bNetworking → Voice__bServices → Toll__bfree__binbound__foutbound
+4496   Telecommunications__band__bNetworking → Voice__bServices → Voice__bMail
+195    Telecommunications__band__bNetworking → Voice__bServices → Voice__bPlatform__bPilot__bUser
+2546   Telecommunications__band__bNetworking → Voice__bServices → VoIP__bTelephone__bService
+2769   Telecommunications__band__bNetworking → VPN → Configuration
+638    Telecommunications__band__bNetworking → VPN → Service__bPerformance__bIssue__bor__bInterruption
+1309   Telecommunications__band__bNetworking → Wired__fEthernet → Install__fObtain
+291    Telecommunications__band__bNetworking → Wired__fEthernet → Physical__bProblem
+1212   Telecommunications__band__bNetworking → Wired__fEthernet → Service__bPerformance__bIssue__bor__bInterruption
+412    Telecommunications__band__bNetworking → Wired__fEthernet → Subnet__bIssue
+629    Telecommunications__band__bNetworking → Wireless__b__PDevice__p
+157    Telecommunications__band__bNetworking → Wireless__b__Peduroam__p → Configuration
+42     Telecommunications__band__bNetworking → Wireless__b__Peduroam__p → Service__bPerformance__bIssue__bor__bInterruption
+75     Telecommunications__band__bNetworking → Wireless__b__PGuest__p → Configuration
+44     Telecommunications__band__bNetworking → Wireless__b__PGuest__p → Service__bPerformance__bIssue__bor__bInterruption
+2619   Telecommunications__band__bNetworking → Wireless__b__PNorthwestern__p → Configuration
+981    Telecommunications__band__bNetworking → Wireless__b__PNorthwestern__p → Service__bPerformance__bIssue__bor__bInterruption
+0      

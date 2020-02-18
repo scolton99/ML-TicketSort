@@ -1,0 +1,529 @@
+Identity__bManagement__band__bAuthentication → NetID → Password__fActivation
+Help__band__bSupport → Directory__bAssistance
+Business__bApplications__band__bServices → NUFinancials → Supply__bChain
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Deployment__fSetup
+Identity__bManagement__band__bAuthentication → NetID → Modification__bof__bExisting__bNetIDs
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Exchange__bAccount__bManagement
+Help__band__bSupport → General__bQuestion
+Hardware__b__7__bSoftware → Other
+Hardware__b__7__bSoftware → Shared__bNetwork__bDrive__fDepartmental__bServer
+Infrastructure → Feinberg__bManaged__bServer
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Outlook
+Identity__bManagement__band__bAuthentication → NetID → Creation__bof__bManual__bNetIDs
+Business__bApplications__band__bServices → CONDUITS → Order__bForm
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Repair
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Access__b__PAdmin__bor__bLogin__p
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Purchase
+Hardware__b__7__bSoftware → Printer__b__Pincluding__bAccess__band__bSoftware__bConfiguration__p
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Listserv
+Business__bApplications__band__bServices → CATracks → System__bMaintenance__band__bModifications
+Hardware__b__7__bSoftware → Client__bBackup__b__PCrashPlan__p
+Telecommunications__band__bNetworking → Firewall → Rule__bProcessed
+Telecommunications__band__bNetworking → Voice__bServices → Voice__bMail
+Security__band__bCompliance → Account__bCompromise__b__Pincluding__bPhishing__band__bSpam__p
+Hardware__b__7__bSoftware → Web__bBrowsers
+Hardware__b__7__bSoftware → Adobe__bCreative__bSuite
+Business__bApplications__band__bServices → NUFinancials → General__bLedger
+Operation__band__bControl → SOC__bMonitoring → Network__bOperations__bConsole → Voice__bServices
+Business__bApplications__band__bServices → Our__bNorthwestern → Other
+Business__bApplications__band__bServices → IBuyNU__b__PSciQuest__p
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Northwestern__bBox
+Hardware__b__7__bSoftware → Windows
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → Rerun
+Telecommunications__band__bNetworking → Other
+Business__bApplications__band__bServices → eIRB
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Other
+Business__bApplications__band__bServices → CAESAR__fSES → Administrative__bAccess
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Calendar
+Business__bApplications__band__bServices → NUFinancials → Security
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Student
+Business__bApplications__band__bServices → CAESAR__fSES → Other
+Telecommunications__band__bNetworking → Firewall → Configuration
+Telecommunications__band__bNetworking → VPN → Configuration
+Business__bApplications__band__bServices → Other
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Recycle__fRepurpose
+Research__bResources → Quest → Account
+Operation__band__bControl → SOC__bMonitoring → Network__bOperations__bConsole → Wired__bEthernet
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Other
+Telecommunications__band__bNetworking → Wireless__b__PNorthwestern__p → Configuration
+Hardware__b__7__bSoftware → Monitor
+Hardware__b__7__bSoftware → Accessories__M__bAdapters__M__band__bPeripherals
+Telecommunications__band__bNetworking → Voice__bServices → VoIP__bTelephone__bService
+Identity__bManagement__band__bAuthentication → Online__bdirectory__fLDAP__fDirectory__bServices
+Identity__bManagement__band__bAuthentication → NetID → Other
+Business__bApplications__band__bServices → CAESAR__fSES → Student__bAccess
+Hardware__b__7__bSoftware → Microsoft__bOffice → Departmental__bIssue
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Laptop__bconnection__band__bconfiguration
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → New
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Other
+Telecommunications__band__bNetworking → Voice__bServices → Handsets__fEndpoints__fSoft__uclients
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Projector__bcolor__M__bcontrol__M__band__bother
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → ORG__bMailbox
+Hardware__b__7__bSoftware → Microsoft__bOffice → Office__b365
+Business__bApplications__band__bServices → InfoEd
+Identity__bManagement__band__bAuthentication → Active__bDirectory__fRadiant__bLogic
+Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Troubleshooting
+Research__bResources → Prism__bGraphpad
+Business__bApplications__band__bServices → Kronos
+Critical__bFacility__bSite__bManagement → Site__bCheck
+Technology__bSpaces → Other
+Hardware__b__7__bSoftware → Remote__bSupport__b__PBomgar__p
+Technology__bSpaces → Audio__uVisual__b__PAV__p → hardware__bperformance__bchanged__fdegraded__b__u__bcite__btype__bin__bdescription
+Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Alumni
+Hardware__b__7__bSoftware → Java
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → OWA
+Identity__bManagement__band__bAuthentication → NUValidate
+Hardware__b__7__bSoftware → Hard__bDrive__bEncryption
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → iOS
+Research__bResources → Quest → Other
+Business__bApplications__band__bServices → CATracks → Other
+Business__bApplications__band__bServices → MyHR__bLearn → General__bSupport
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Upgrade
+Business__bApplications__band__bServices → CAESAR__fSES → Duplicate__bResolution
+Technology__bSpaces → Videoconferencing__b__PVC__p → VC__bIn__bSession__bSupport
+Business__bApplications__band__bServices → CATracks → Reports → AdHoc
+Security__band__bCompliance → Malware__band__bVirus
+Security__band__bCompliance → Other
+Telecommunications__band__bNetworking → Voice__bServices → TDM__bTelephone__bService
+Telecommunications__band__bNetworking → Wired__fEthernet → Install__fObtain
+Research__bResources → SPSS__fPASW
+Research__bResources → Quest → Quest__b__u__bApplications
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Network → Off__bHours
+Business__bApplications__band__bServices → Departmental__bWeb__bSite
+Telecommunications__band__bNetworking → Wired__fEthernet → Service__bPerformance__bIssue__bor__bInterruption
+Research__bResources → Quest → Job__bScheduler
+Hardware__b__7__bSoftware → Remote__bDesktop
+Business__bApplications__band__bServices → MyHR__bLearn → Performance__bExcellence__b__PPEX__p
+Infrastructure → Incommon__bCertificates
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bSES
+Telecommunications__band__bNetworking → DNS → Configuration
+Business__bApplications__band__bServices → Web__bContent__bManager__b__PCascade__p
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Alumni
+Academic__bResources → Canvas → Course__bCreation__b__UJud___bCustom
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → Change
+Academic__bResources → Canvas → Course__bCombine
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Podium__baccess__M__bupkeep__M__bpower
+Technology__bSpaces → Event__bSupport__b__PEV__p
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → Distribution__bList
+Hardware__b__7__bSoftware → EndNote
+Telecommunications__band__bNetworking → Voice__bServices → Enhanced__bACD
+Hardware__b__7__bSoftware → Symantec__fNorton__bAntivirus__fEndPoint__bProtection
+Infrastructure → Server → Access
+Research__bResources → Social__bSciences__bComputing__bCluster__b__PSSCC__p
+Telecommunications__band__bNetworking → Wireless__b__PNorthwestern__p → Service__bPerformance__bIssue__bor__bInterruption
+Hardware__b__7__bSoftware → Adobe__bReader
+Business__bApplications__band__bServices → MyHR → Other
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → Room
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Network → On__bHours
+Research__bResources → SAS
+Security__band__bCompliance → Copyright__bViolation
+Telecommunications__band__bNetworking → Voice__bServices → Other
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Distribution__bList
+Academic__bResources → NU__bSites
+Research__bResources → Other
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Crestron__bissues
+Business__bApplications__band__bServices → MachForm
+IT__bProfessional__bServices
+Clinical__band__bMedical__bServices → Epic
+Business__bApplications__band__bServices → CAESAR__fSES → Faculty__bAccess
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Other
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Loaner
+Telecommunications__band__bNetworking → SSL__uVPN → Access
+Operation__band__bControl → IT__bAudit → Audit__c__bWeekly__bDBA__bAudit
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bFFRA
+Academic__bResources → Canvas → Consultation
+Operation__band__bControl → SOC__bMonitoring → Subnet__bChange__bRequests → Quantity__b1__bthru__b5
+Business__bApplications__band__bServices → NUPlans
+Telecommunications__band__bNetworking → Routing__fInfrastructure → Other
+Business__bApplications__band__bServices → MyHR → Security__b__u__bMyHR
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Android
+Business__bApplications__band__bServices → CONDUITS → Configuration__b__PInventory__M__bCable__bRecords__p
+Business__bApplications__band__bServices → MyHR → Payroll
+Business__bApplications__band__bServices → Cognos → NU__bFinancials__bCanned__bReporting → Reporting
+Research__bResources → MATLAB
+Business__bApplications__band__bServices → CAESAR__fSES → Student__bRecords__bAd__bHoc
+Operation__band__bControl → SOC__bMonitoring → E911__bFiles
+Identity__bManagement__band__bAuthentication → Online__bPassport__b__PWeb__bSSO__p
+Telecommunications__band__bNetworking → VPN → Service__bPerformance__bIssue__bor__bInterruption
+Telecommunications__band__bNetworking → Routing__fInfrastructure → Subnet
+Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Agent__bInstall__fUninstall
+Telecommunications__band__bNetworking → Wireless__b__PDevice__p
+Operation__band__bControl → SOC__bMonitoring → SOC__bMetrics
+Hardware__b__7__bSoftware → Microsoft__bOffice → Other
+Business__bApplications__band__bServices → CAESAR__fSES → Guest__bAccess
+Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → General__bQuestion
+Business__bApplications__band__bServices → CAESAR__fSES → Registration
+Business__bApplications__band__bServices → MyHR → Benefits
+Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → User__bActivation__fRegistration
+Business__bApplications__band__bServices → WildCARD
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Voicemail
+Business__bApplications__band__bServices → Smartsheet
+Research__bResources → Research__bData__bStorage
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Blue__bJeans
+Business__bApplications__band__bServices → FAMIS
+Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Volunteer
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bMyHR
+Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Personal__bDevice__bHelp
+Technology__bSpaces → Computer__bSupport__b__PCS__p → Other
+Technology__bSpaces → Lecture__bCapture__b__PLC__p → Other
+Technology__bSpaces → Computer__bSupport__b__PCS__p → computer__bhardware
+Operation__band__bControl → Bridge__bfor__bIncident__bManagement
+Infrastructure → Monitoring__band__bManagement__bServices → Solarwinds
+Hardware__b__7__bSoftware → macOS
+Critical__bFacility__bSite__bManagement → Cooling__bSystems → Mechanicals__b__PCRAC__M__bIn__uRow__M__bPumps__M__bChillers__p
+Help__band__bSupport → Rounds
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Bulkmail
+Telecommunications__band__bNetworking → Voice__bServices → International__fLong__bDistance__fAuthorization__bCode
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Skype__bfor__bBusiness__fLync
+Operation__band__bControl → IT__bAudit → Audit__c__bDaily__bApplication__bAudit__bReport
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bCATracks
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Projector__blamp__f__blamp__bwarning
+Operation__band__bControl → Smart__bHands → Admin__bRequests → Off__bHours
+Business__bApplications__band__bServices → Odyssey__bPCS
+Infrastructure → Server → Backup__fRestore
+Business__bApplications__band__bServices → Micros__b3700
+Technology__bSpaces → Videoconferencing__b__PVC__p → Other
+Academic__bResources → NUWorkspace → Access
+Telecommunications__band__bNetworking → Wired__fEthernet → Subnet__bIssue
+Infrastructure → Database → User__bMaintenance → Modify__bAccess__bRights
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Event__bSupport
+Research__bResources → Quest → Software__bInstall
+Infrastructure → Storage → Storage__bResource__bProvisioning
+Clinical__band__bMedical__bServices → Other
+Infrastructure → Server → Virtual__bServer__bRequest → RHEL__AMonitoring
+Operation__band__bControl → Physical__bEntry__bControls → Site__bAccess__bRequest
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Other
+Business__bApplications__band__bServices → eCATS__b__PStudent__bLoan__bSystem__p
+Business__bApplications__band__bServices → MyHR → Core
+Identity__bManagement__band__bAuthentication → Password__bVault__b__PCyberArk__p
+Infrastructure → Server → Virtual__bServer__bRequest → Windows
+Business__bApplications__band__bServices → Research__bPortal
+Research__bResources → Vault → Collaborative__bAccount
+Business__bApplications__band__bServices → MyHR → Recruiting
+Business__bApplications__band__bServices → Cognos → Other
+Business__bApplications__band__bServices → NUFinancials → Grants
+Infrastructure → Server → Server__bDecommission
+Hardware__b__7__bSoftware → Microsoft__bOffice → Home__bUse__bProgram
+Operation__band__bControl → Asset__bManagement → Hardware__bInstallation → Server__b__f__bStorage__b__f__bConsole__bSwitch
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → EDS__uEmail__bDefense__bSystem
+Business__bApplications__band__bServices → Residential__bManagement__bSystem
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → SharePoint
+Operation__band__bControl → SOC__bMonitoring → Shift__bReport
+Technology__bSpaces → Orientation
+Business__bApplications__band__bServices → CONDUITS → Access
+Telecommunications__band__bNetworking → SSL__uVPN → Configuration
+Business__bApplications__band__bServices → Our__bNorthwestern → System__bMaintenance__band__bModifications
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → User__bSupport → Other
+Technology__bSpaces → Videoconferencing__b__PVC__p → Connection__bTest
+Business__bApplications__band__bServices → CATracks → CATracks__bUser__bSupport
+Telecommunications__band__bNetworking → Wired__fEthernet → Physical__bProblem
+Infrastructure → Server → Virtual__bServer__bRequest → RHEL
+Business__bApplications__band__bServices → Axis__bTV__b__PDigital__bSignage__p
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Organizational
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Microsoft__bTeams
+Research__bResources → Stata
+Technology__bSpaces → Videoconferencing__b__PVC__p → hardware__bperformance__bchanged__fdegraded__b__u__bcite__btype__bin__bdescription
+Operation__band__bControl → Smart__bHands → Admin__bRequests → On__bHours
+Business__bApplications__band__bServices → Key__bTrak
+Infrastructure → Storage → Access
+Technology__bSpaces → Computer__bSupport__b__PCS__p → Software__bIssue
+Infrastructure → Database → Data__bModification
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → O__fS → Off__bHours
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → O__fS → On__bHours
+Telecommunications__band__bNetworking → TV__bServices → Xfinity__bOn__bCampus
+Infrastructure → Server → Virtual__bServer__bRequest → Windows__AMonitoring
+Infrastructure → Database → Other
+Critical__bFacility__bSite__bManagement → Electrical__bSystems → UPS__band__bBattery__bCabinets
+Technology__bSpaces → Computer__bSupport__b__PCS__p → boot__bpicker__fReboot__fsleep__bissue
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → Other
+Business__bApplications__band__bServices → CAESAR__fSES → 1098__uT
+Critical__bFacility__bSite__bManagement → Electrical__bSystems → Generator
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → ORG__bCalendar
+Hardware__b__7__bSoftware → Flash
+Help__band__bSupport → Onboarding__fOffboarding
+Infrastructure → Server → Server__bResource__bProvisioning → Disk
+Infrastructure → Database → Refresh__fBackup → Whole__bDatabase__fInstance
+Business__bApplications__band__bServices → Faculty__bRecruiting__bSystem
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Faculty__fStaff
+Infrastructure → Database → User__bMaintenance → Login__fPassword__bReset
+Hardware__b__7__bSoftware → Client__bManagement__b__PKACE__bK1000__p
+Hardware__b__7__bSoftware → Microsoft__bVisio
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Tableau__bReports → Change
+Infrastructure → Server → Operating__bSystem → Software
+Technology__bSpaces → Videoconferencing__b__PVC__p → Testing__bissues
+Telecommunications__band__bNetworking → NAC__b__PNetwork__bAccess__bControl__p
+Business__bApplications__band__bServices → CAESAR__fSES → Transcripts
+Business__bApplications__band__bServices → CONDUITS → Configuration__b__PContacts__M__bAccounts__M__bDepartments__p
+Business__bApplications__band__bServices → Undergraduate__bResearch__bGrants
+Technology__bSpaces → Videoconferencing__b__PVC__p → Conference__bScheduling
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Thunderbird
+Infrastructure → Database → Configuration__bChange
+Operation__band__bControl → Offsite__bMedia__bVaulting__band__bTape__bBackup → Iron__bMountain
+Academic__bResources → Library__bServices
+Infrastructure → Database → Errors
+Academic__bResources → Canvas → Access__b__UJud___bUser → Log__bIn
+Research__bResources → Quest → Scheduler
+Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Staff
+Technology__bSpaces → Computer__bSupport__b__PCS__p → USB__M__bkeyboard__M__bmice__M__bdiscs
+Business__bApplications__band__bServices → OnBase → Other
+Infrastructure → Law__bManaged__bServer
+Business__bApplications__band__bServices → MyHR__bLearn → Title__bIX__bMisconduct
+Telecommunications__band__bNetworking → Voice__bServices → Voice__bPlatform__bPilot__bUser
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → WebEx
+Business__bApplications__band__bServices → Northwestern__bLoan__bApplication
+Operation__band__bControl → Shipping__fReceiving__fSecure__bStorage
+Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Service__bDesk
+Telecommunications__band__bNetworking → NUSA
+Business__bApplications__band__bServices → CATracks → Reports → Other
+Business__bApplications__band__bServices → Enterprise__bDatabases → Other
+Hardware__b__7__bSoftware → Parallels__fVMware
+Business__bApplications__band__bServices → MyHR__bLearn → POI
+Operation__band__bControl → Asset__bManagement → Vendor__bContracts__band__bMaintenance__bAgreements
+Business__bApplications__band__bServices → NU__bParking
+Infrastructure → Server → Operating__bSystem → Configuration
+Business__bApplications__band__bServices → NU__bSOA → Request__bAccess__bto__bExisting__bAPI__Ps__p
+Clinical__band__bMedical__bServices → Powerchart
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Kellogg
+Hardware__b__7__bSoftware → Redhat__bLinux__b__PRHEL__p
+Business__bApplications__band__bServices → IT__bService__bManager → Agent → Add
+Business__bApplications__band__bServices → CAESAR__fSES → Personal__fEmergency__bInfo
+Business__bApplications__band__bServices → NU__bSOA → Other__bRequests
+Hardware__b__7__bSoftware → Client__bManagement__b__PCasper__p
+Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bSES
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Adobe__bConnect
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Applications → Off__bHours
+Technology__bSpaces → Computer__bSupport__b__PCS__p → Software__bRequest
+Academic__bResources → Canvas → Course__bCreation__b__UJud___bSES
+Business__bApplications__band__bServices → GoAnywhere
+Telecommunications__band__bNetworking → Wireless__b__Peduroam__p → Configuration
+Business__bApplications__band__bServices → Enterprise__bDatabases → SES
+Business__bApplications__band__bServices → OnBase → Unity__bClient
+Operation__band__bControl → SOC__bMonitoring → Network__bOperations__bConsole → TV__bServices
+Business__bApplications__band__bServices → Career__bCat__b__PSymplicity__p
+Clinical__band__bMedical__bServices → Point__bn__bClick
+Operation__band__bControl → Asset__bManagement → Hardware__bDecommissioning → Media__bDestruction__band__bDisposal
+Business__bApplications__band__bServices → Enterprise__bDatabases → FFRA
+Help__band__bSupport → Guest__bAssistance
+Business__bApplications__band__bServices → CONDUITS → Billing
+Operation__band__bControl → IT__bAudit → Audit__c__bMonthly__bSystem__bAdmin__bLogin__bAudit
+Critical__bFacility__bSite__bManagement → Professional__bCleaning
+Business__bApplications__band__bServices → Daptiv
+Critical__bFacility__bSite__bManagement → Electrical__bSystems → DC__bRectifier__bPlant__band__bBatteries
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Formatted__bReports → Rerun
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Google → Other
+Business__bApplications__band__bServices → NSIS__b__PResearch__bSafety__p
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Applications → On__bHours
+Academic__bResources → Canvas → Settings__b__UJud___bCourse
+Infrastructure → Server → Server__bSecurity → IPtables
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bQuery__bStudio → New
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Tableau__bReports → New
+Infrastructure → Database → User__bMaintenance → Add__fRemove__bUser__fRole
+Business__bApplications__band__bServices → GSTS__b__PGraduate__bStudent__bTracking__bSystem__p
+Infrastructure → Server → Power__bCycle
+Telecommunications__band__bNetworking → Routing__fInfrastructure → Load__bBalancing
+Help__band__bSupport → Knowledge__bBase
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Training__bAD__bHOC__band__bas__bresult__bof__btrouble__bshooting
+Business__bApplications__band__bServices → Lynda__dcom
+Infrastructure → Database → Object__bModification
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Enterprise__bReporting__b__7__bAnalytics__bTool
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Equipment__bLoan
+Critical__bFacility__bSite__bManagement → Electrical__bSystems → Utility
+Telecommunications__band__bNetworking → Cellular__fDAS
+Business__bApplications__band__bServices → EMS__bScheduling__bSystem
+Critical__bFacility__bSite__bManagement → Electrical__bSystems → PDUs__M__bPDR__M__bbranch__bfeeders__band__breceptacles
+Infrastructure → Database → Performance__bIssues
+Academic__bResources → Canvas → Access__b__UJud___bUser → Account__bCreation
+Business__bApplications__band__bServices → Granite__b__PCCM__bFacility__bMgmt__p
+Business__bApplications__band__bServices → REACH
+Infrastructure → Cloud__bServices → AWS
+Hardware__b__7__bSoftware → Desktop__fLaptop__fSmartphone__fTablet → Lost__fStolen__fMissing
+Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bFFRA
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Wireless__bPresentation
+Telecommunications__band__bNetworking → TV__bServices → Cable__bTV
+Business__bApplications__band__bServices → Enterprise__bDatabases → FASIS
+Academic__bResources → Canvas → Other
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Formatted__bReports → New
+Critical__bFacility__bSite__bManagement → Cabinet__bProvisioning
+Operation__band__bControl → Smart__bHands → Research__bRequests → On__bHours
+Infrastructure → Database → Database__bCreate__fDrop
+Clinical__band__bMedical__bServices → Harvest__bLIS
+Business__bApplications__band__bServices → Cognos → SES__bReporting → Reporting
+Telecommunications__band__bNetworking → DHCP → Configuration
+Academic__bResources → SRS__bClickers
+Hardware__b__7__bSoftware → Oracle__bClient
+Infrastructure → Monitoring__band__bManagement__bServices → Other
+Operation__band__bControl → SOC__bMonitoring → Cooling__band__bPower__bMonitoring
+Infrastructure → A__7RT__bManaged__bServer
+Infrastructure → Co__ulocation__bEquipment → Hardware
+Operation__band__bControl → Offsite__bMedia__bVaulting__band__bTape__bBackup → Tape__bRobot
+Business__bApplications__band__bServices → Qualtrics
+Telecommunications__band__bNetworking → External__bRequest
+Hardware__b__7__bSoftware → Microsoft__bProject
+Academic__bResources → Canvas → Access__b__UJud___bAdmin → Account__bCreation
+Infrastructure → Server → Server__bSecurity → Patches
+Operation__band__bControl → Purchasing → Bid__M__bRFQ__M__bRFP
+Telecommunications__band__bNetworking → Firewall → Install__fObtain
+Hardware__b__7__bSoftware → Lab__bComputer
+Research__bResources → Quest → Hardware__bTroubleshooting
+Business__bApplications__band__bServices → NUPrint
+Operation__band__bControl → Asset__bManagement → dcTrack__b__Pequipment__badds__M__bmoves__M__bchanges__p
+Telecommunications__band__bNetworking → Firewall → Service__bPerformance__bIssue__bor__bInterruption
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Report__bConsultation → Other
+Business__bApplications__band__bServices → Confluence
+Telecommunications__band__bNetworking → Routing__fInfrastructure → Core__fDistribution
+Business__bApplications__band__bServices → Splunk
+Critical__bFacility__bSite__bManagement → Electrical__bSystems → CDUs__band__bGrounding
+Academic__bResources → Canvas → Enrollment__bManagement__b__UJud___bSystem
+Infrastructure → Server → Virtual__bServer__bRequest → Other
+Business__bApplications__band__bServices → CAESAR__fSES → Student__bFinancial__b__bNo__bMatch__bBuffer
+Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → Mobile__bApp
+Telecommunications__band__bNetworking → Routing__fInfrastructure → External__bISP
+Telecommunications__band__bNetworking → Voice__bServices → Conference__bBridge
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Analytics → Descriptive__bAnalyses
+Business__bApplications__band__bServices → CAESAR__fSES → CTEC
+Telecommunications__band__bNetworking → SSL__uVPN → Service__bPerformance__bIssue__bor__bInterruption
+Business__bApplications__band__bServices → eACUC__b__PAnimal__bCare__bCompliance__p
+Technology__bSpaces → Lecture__bCapture__b__PLC__p → Capture__bAgent__fDevice__bissue
+Telecommunications__band__bNetworking → Wireless__b__PGuest__p → Configuration
+Infrastructure → Database → Refresh__fBackup → Schema
+Business__bApplications__band__bServices → RES__b__PRoom__band__bEvent__bSystem__p
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Client → Apple__bMail
+Help__band__bSupport → Office__bSupplies
+Operation__band__bControl → Printing__b__PAP__M__bPayroll__M__bTax__bForms__p → Request__bto__bPrint
+Business__bApplications__band__bServices → Cognos → NU__bFinancials__bAd__bHoc__bReporting → Reporting
+Hardware__b__7__bSoftware → Client__bManagement__b__PKACE__bK2000__p
+Technology__bSpaces → Wireless__bPresentation__b__PWP__p
+Telecommunications__band__bNetworking → Routing__fInfrastructure → Deny__bUnsolicited__bInbound__bTraffic
+Infrastructure → Cloud__bServices → Other
+Research__bResources → Lab__bIT
+Business__bApplications__band__bServices → Cognos → Enterprise__bReporting__b__7__bAnalytics__bTool → Reporting
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Storage → Off__bHours
+Operation__band__bControl → SOC__bMonitoring → AutoSys__bJob__bMonitoring__bFASIS
+Telecommunications__band__bNetworking → Routing__fInfrastructure → Border__fWAN
+Academic__bResources → NUWorkspace → Citrix
+Hardware__b__7__bSoftware → Lab__bPrinter → Usage
+Hardware__b__7__bSoftware → Scanner → Flatbed__bscanner
+Operation__band__bControl → SOC__bMonitoring → Subnet__bChange__bRequests → Quantity__bgreater__bthan__b10
+Technology__bSpaces → Lecture__bCapture__b__PLC__p → Add__fchange__bschedule__brequest
+Business__bApplications__band__bServices → Our__bNorthwestern → Security__band__bAccess → Alumni__bVolunteers
+Infrastructure → Co__ulocation__bEquipment → Network → On__bHours
+Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → System__bConfiguration
+Infrastructure → Storage → Storage__bhardware__bfailure → Disk
+Business__bApplications__band__bServices → CONDUITS → Service__bPerformance__bIssue__bor__bInterruption
+Business__bApplications__band__bServices → NU__bSOA → Register__bNew__bAPI
+Infrastructure → Server → Server__bResource__bProvisioning → CPU
+Operation__band__bControl → Physical__bEntry__bControls → University__bData__bCenter__bTours
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Jabber
+Infrastructure → Server → Server__bResource__bProvisioning → Memory
+Operation__band__bControl → Asset__bManagement → Hardware__bRelocation__b__Pwithin__bfacility__p → Server__b__f__bStorage__b__f__bConsole__bSwitch
+Technology__bSpaces → LST__btier__b2__bonly → Other
+Infrastructure → Cloud__bServices → GitHub
+Business__bApplications__band__bServices → Facilities__bConnect → Project__bManagement
+Hardware__b__7__bSoftware → Scanner → Simplescan__bstation
+Identity__bManagement__band__bAuthentication → Multi__uFactor__bAuthentication__b__PDuo__p → Call__bAuthentication
+Operation__band__bControl → Smart__bHands → Research__bRequests → Off__bHours
+Business__bApplications__band__bServices → OnBase → Web__bClient
+Critical__bFacility__bSite__bManagement → Electrical__bSystems → Main__bSwitchgear__M__bSwitchboard__M__bATS__M__bATC
+Infrastructure → Co__ulocation__bEquipment → Access
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bParking__band__bTraffic
+Infrastructure → Server → Physical__bServer__bRequest
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Internet__bconnection
+Business__bApplications__band__bServices → IT__bService__bManager → Reports__fSearches → Service__bDesk
+Business__bApplications__band__bServices → IT__bService__bManager → Team → Update
+Operation__band__bControl → SOC__bMonitoring → Subnet__bChange__bRequests → Quantity__b6__bthru__b10
+Business__bApplications__band__bServices → Cognos → FASIS__bReporting → Reporting
+Hardware__b__7__bSoftware → Mobile__bDevice__bManagement__b__PMDM__p
+Operation__band__bControl → Asset__bManagement → Hardware__bDecommissioning → Media__bReuse__bor__bReturn
+Business__bApplications__band__bServices → ERS__b__PEffort__breporting__bsystem__p
+Research__bResources → JMP
+Telecommunications__band__bNetworking → DNS → Service__bPerformance__bIssue__bor__bInterruption
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Tableau__bReports → Other
+Business__bApplications__band__bServices → Web__bForms
+Technology__bSpaces → Computer__bSupport__b__PCS__p → Training__bAD__bHOC__band__bas__bresult__bof__btrouble__bshooting
+Business__bApplications__band__bServices → IT__bService__bManager → Agent → Update
+Business__bApplications__band__bServices → IT__bService__bManager → Team → Add
+Operation__band__bControl → Asset__bManagement → Inventory__bControl__b__Ptools__M__bkeys__M__bspare__bparts__p
+Operation__band__bControl → Physical__bEntry__bControls → Visitor__bKiosk
+Clinical__band__bMedical__bServices → Titanium
+Infrastructure → Database → Research
+Operation__band__bControl → Asset__bManagement → Hardware__bDecommissioning → No__bMedia__binvolved
+Operation__band__bControl → Physical__bEntry__bControls → Electronic__bAccess__bControl__bBadges
+Telecommunications__band__bNetworking → Two__uway__bRadio
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Crystal__bReports → New
+Infrastructure → Database → Application__bSupport → End__bUser__bSupport
+Infrastructure → Server → Virtual__bServer__bRequest → Virtual__bAppliance
+Research__bResources → Quest → Filesystem
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bQuery__bStudio → Rerun
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Formatted__bReports → Change
+Operation__band__bControl → Asset__bManagement → Hardware__bInstallation → Network__b__Pfirewalls__M__bswitch__p
+Operation__band__bControl → Printing__b__PAP__M__bPayroll__M__bTax__bForms__p → Printer__bMaintenance__M__bSupplies__M__band__bRepair
+Telecommunications__band__bNetworking → Wireless__b__PGuest__p → Service__bPerformance__bIssue__bor__bInterruption
+Infrastructure → Database → Audit
+Research__bResources → Quest → Provisioning
+Business__bApplications__band__bServices → IT__bService__bManager → Agent → Delete
+Business__bApplications__band__bServices → MyHR__bLearn → Other
+Hardware__b__7__bSoftware → Dragon
+Research__bResources → REDCap
+Telecommunications__band__bNetworking → Wireless__b__Peduroam__p → Service__bPerformance__bIssue__bor__bInterruption
+Business__bApplications__band__bServices → Facilities__bConnect → Space
+Hardware__b__7__bSoftware → Lab__bSoftware → General__bInfo__fAvailability__fRequest
+Telecommunications__band__bNetworking → Voice__bServices → 911__bEmergency__bIssues
+Business__bApplications__band__bServices → NUInfo__fCentral__bWeb__bServer → Web__bRedirects__bor__bRewrite__bRules
+Operation__band__bControl → Physical__bEntry__bControls → Electronic__bAccess__bControl__bDoors__band__bReaders
+Business__bApplications__band__bServices → Handshake
+Business__bApplications__band__bServices → NU__bSOA → Request__bto__bPublish__bYour__bAPI
+Infrastructure → Cloud__bServices → NUCloud
+Academic__bResources → Media__bSpace → Media__bSpace__bAccount__bRequest
+Business__bApplications__band__bServices → IT__bService__bManager → Form__bDesign__fWork__bFlow → Change__bManagement
+Academic__bResources → MediaSite
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Crystal__bReports → Rerun
+Hardware__b__7__bSoftware → Photocopier
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → Administrative__bDashboard
+Telecommunications__band__bNetworking → Firewall → Rule__bChange__uDenied
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → Crystal__bReports → Change
+Business__bApplications__band__bServices → CATracks → Reports → Crystal
+Research__bResources → ArcGIS
+Academic__bResources → NUWorkspace → Other
+Business__bApplications__band__bServices → AdviseStream → Adviser__bAccess
+Business__bApplications__band__bServices → Tableau → Server__b__u__bTableau
+Infrastructure → Database → Infrastructure → Upgrade__fPatching
+Infrastructure → Server → Server__bResource__bProvisioning → Deployment__fSetup
+Infrastructure → Database → Refresh__fBackup → Table__fObject
+Operation__band__bControl → Maintenance__bWindow__bModerator__b__f__bSupport__bfor__bCustomers → Storage → On__bHours
+Telecommunications__band__bNetworking → Voice__bServices → Toll__bfree__binbound__foutbound
+Academic__bResources → Canvas → Enrollment__bManagement__b__UJud___bSES
+Academic__bResources → Canvas → LTI → Panopto__b__UJud___bLTI
+Business__bApplications__band__bServices → DVMAX__b__PCCM__bVeterinary__bCare__p
+Business__bApplications__band__bServices → Our__bNorthwestern → Security__band__bAccess → General__bAccess
+Academic__bResources → Canvas → Settings__b__UJud___bUser__bAccount
+Critical__bFacility__bSite__bManagement → Fire__bProtection → Inspections
+Operation__band__bControl → Offsite__bMedia__bVaulting__band__bTape__bBackup → NetBackup
+Research__bResources → Quest → Security__fPatching
+Telecommunications__band__bNetworking → Routing__fInfrastructure → Network__uPower__uTNS
+Academic__bResources → Canvas → LTI → BlueJeans__b__UJud___bLTI
+Business__bApplications__band__bServices → Tableau → Desktop__b__u__bTableau
+Technology__bSpaces → Lecture__bCapture__b__PLC__p → Video__bissue
+Business__bApplications__band__bServices → AdviseStream → Calendar__band__bAppointments
+Business__bApplications__band__bServices → OnTheHub__b__PKivuto__p
+Clinical__band__bMedical__bServices → ProPharm__bOne
+Operation__band__bControl → Asset__bManagement → Asset__bTagging
+Research__bResources → FlowJo
+Critical__bFacility__bSite__bManagement → Cooling__bSystems → Other
+Hardware__b__7__bSoftware → Item__bCheckout → Condenser__bMicrophone
+Operation__band__bControl → AutoSys__bJob__bScheduler → AutoSys__bERA → ARD__bReporting
+Research__bResources → Vault → Generic__bVault__bAccount
+Academic__bResources → Canvas → LTI → Other
+Hardware__b__7__bSoftware → Microscope
+Operation__band__bControl → Smart__bHands → Triage__bPhysical__bLayer → On__bHours
+Research__bResources → Quest → Transfer
+Technology__bSpaces → Mediasite__bInfrastructure → Network__berror
+Telecommunications__band__bNetworking → Routing__fInfrastructure → SSL__bCertificate__bHosting__bVerification
+Business__bApplications__band__bServices → Plan__uIt__bPurple
+Hardware__b__7__bSoftware → Projecto
+Infrastructure → Server → Server__bhardware__bfailure → Other
+Academic__bResources → NUWorkspace → Licenses
+Hardware__b__7__bSoftware → Northwestern__bMobile
+Operation__band__bControl → Physical__bEntry__bControls → Electronic__bAccess__bControl__bBadges__bMarlok__bkey
+Operation__band__bControl → Purchasing → Ad__bHoc__bPurchases
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → BI__bQuery__bStudio → Change
+Business__bApplications__band__bServices → CATracks → Reports → PreDefined

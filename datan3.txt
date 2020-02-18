@@ -1,0 +1,25 @@
+Business__bApplications__band__bServices → ARD__bReporting__b__7__bAnalytics → SQL__bReports → New
+Business__bApplications__band__bServices → Our__bNorthwestern → Our__bNorthwestern__bUser__bSupport → Alumni
+Hardware__b__7__bSoftware → Remote__bSupport__b__PBomgar__p
+Identity__bManagement__band__bAuthentication → Online__bdirectory__fLDAP__fDirectory__bServices
+Hardware__b__7__bSoftware → Accessories__M__bAdapters__M__band__bPeripherals
+Hardware__b__7__bSoftware → Monitor
+Hardware__b__7__bSoftware → Microsoft__bOffice → Departmental__bIssue
+Telecommunications__band__bNetworking → Voice__bServices → VoIP__bTelephone__bService
+Business__bApplications__band__bServices → CAESAR__fSES → Student__bAccess
+Telecommunications__band__bNetworking → Voice__bServices → Handsets__fEndpoints__fSoft__uclients
+Hardware__b__7__bSoftware → Java
+Identity__bManagement__band__bAuthentication → Active__bDirectory__fRadiant__bLogic
+Hardware__b__7__bSoftware → Client__bManagement__b__PBigFix__p → Troubleshooting
+Technology__bSpaces → Other
+Identity__bManagement__band__bAuthentication → NetID → Other
+Hardware__b__7__bSoftware → Microsoft__bOffice → Office__b365
+Research__bResources → Prism__bGraphpad
+Telecommunications__band__bNetworking → Wireless__b__PNorthwestern__p → Configuration
+Business__bApplications__band__bServices → Kronos
+Business__bApplications__band__bServices → InfoEd
+Email__M__bCalendaring__M__bMessaging__band__bCollaboration → Exchange → Resources → ORG__bMailbox
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Other
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Projector__bcolor__M__bcontrol__M__band__bother
+Technology__bSpaces → Audio__uVisual__b__PAV__p → hardware__bperformance__bchanged__fdegraded__b__u__bcite__btype__bin__bdescription
+Technology__bSpaces → Audio__uVisual__b__PAV__p → Laptop__bconnection__band__bconfiguration
